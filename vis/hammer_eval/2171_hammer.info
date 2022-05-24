@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Polynomials/Power_Products.thy
-lemma in_Keys: "s \<in> Keys F \<longleftrightarrow> (\<exists>f\<in>F. s \<in> keys f)"

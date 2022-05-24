@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Differential_Dynamic_Logic/Differential_Axioms.thy
-lemma DIGeq_valid:"valid DIGeqaxiom"

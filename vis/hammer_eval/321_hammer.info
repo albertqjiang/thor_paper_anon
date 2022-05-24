@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Group-Ring-Module/Algebra1.thy
-lemma nat_eq_an_eq:"n = m \<Longrightarrow> an n = an m"

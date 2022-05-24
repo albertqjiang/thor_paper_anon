@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Aggregation_Algebras/Aggregation_Algebras.thy
-lemma minarc_below_regular: "regular x \<Longrightarrow> minarc x \<le> x"

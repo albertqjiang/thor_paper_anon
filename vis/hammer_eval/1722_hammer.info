@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/RSAPSS/Word.thy
-lemma bit_list_induct: assumes empty: "P []" and zero: "!!bs. P bs ==> P (\<zero>#bs)" and one: "!!bs. P bs ==> P (\<one>#bs)" shows "P w"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/QHLProver/Matrix_Limit.thy
-lemma inc_partial_density_operator_converge: assumes i: "i \<in> {0 ..<dim}" and j: "j \<in> {0 ..<dim}" shows "convergent (\<lambda>n. f n $$ (i, j))"

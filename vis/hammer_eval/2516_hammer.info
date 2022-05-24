@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Complex_Geometry/Matrices.thy
-lemma mat_adj_inv: assumes "mat_det M \<noteq> 0" shows "mat_adj (mat_inv M) = mat_inv (mat_adj M)"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Incompleteness/SyntaxN.thy
-lemma Iff_MP2_same: "H \<turnstile> A IFF B \<Longrightarrow> H \<turnstile> B \<Longrightarrow> H \<turnstile> A"

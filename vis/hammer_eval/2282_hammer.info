@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/BNF_CC/Concrete_Examples.thy
-lemma rel_pred_pos_distr_cond_eq: "rel_pred_pos_distr_cond (=) (=)"

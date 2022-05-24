@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Adaptive_State_Counting/FSM/FSM.thy
-lemma det_state_cover_initial : assumes "is_det_state_cover M V" shows "[] \<in> V"

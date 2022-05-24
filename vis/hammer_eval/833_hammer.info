@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Refine_Monadic/Refine_Det.thy
-lemma dres_monad1[simp]: "dbind (dRETURN x) f = f x"

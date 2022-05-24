@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/ROBDD/BDT.thy
-lemma ifex_sat_NoneD: "ifex_sat i = None \<Longrightarrow> val_ifex i ass = False"

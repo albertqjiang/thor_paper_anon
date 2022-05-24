@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Launchbury/AList-Utils.thy
-lemma image_mapCollect[simp]: "g ` {f k v | k \<mapsto> v \<in> m} = { g (f k v) | k \<mapsto> v \<in> m}"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/PCF/Logical_Relations.thy
-lemma synlrI [intro]: "\<lbrakk> \<And>a. (\<bottom>, a) \<in> R; \<And>a. adm (\<lambda>x. (x, a) \<in> R) \<rbrakk> \<Longrightarrow> R \<in> synlr"

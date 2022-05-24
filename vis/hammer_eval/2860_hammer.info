@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/PLM/TAO_9_PLM.thy
-lemma thm_noncont_e_e_1[PLM]: "[Necessary L in v]"

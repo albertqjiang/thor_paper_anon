@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Jordan_Normal_Form/Matrix_Kernel.thy
-lemma padl_image: assumes "U \<subseteq> carrier_vec n" shows "padl m ` U \<subseteq> carrier_vec (m + n)"

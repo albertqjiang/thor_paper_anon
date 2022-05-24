@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Slicing/JinjaVM/JVMCFG.thy
-lemma JVMCFG_Exit_no_sourcenode [dest]: assumes edge:"prog \<turnstile> (_Exit_) -et\<rightarrow> n'" shows "False"

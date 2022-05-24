@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Coinductive/TLList.thy
-lemma terminal_tappend: "terminal (tappend xs f) = (if tfinite xs then terminal (f (terminal xs)) else terminal xs)"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Relation_Algebra/More_Boolean_Algebra.thy
-lemma galois_2: "x \<le> y + -z \<longleftrightarrow> x \<cdot> z \<le> y"

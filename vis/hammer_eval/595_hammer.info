@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Simpl/HeapList.thy
-theorem notin_List_update[simp]: "\<And>p. q \<notin> set ps \<Longrightarrow> List p (h(q := y)) ps = List p h ps"

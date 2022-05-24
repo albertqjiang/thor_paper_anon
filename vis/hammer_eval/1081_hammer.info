@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/PSemigroupsConvolution/Partial_Semigroup_Lifting.thy
-lemma one_fun_var1 [simp]: "x \<in> E \<Longrightarrow> 1 x = 1"

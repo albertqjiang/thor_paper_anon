@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Automatic_Refinement/Lib/Misc.thy
-lemma rel_restrict_Sigma_sub: "rel_restrict ((A\<times>A)\<^sup>+) R \<subseteq> ((A - R) \<times> (A - R))\<^sup>+"

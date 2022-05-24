@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/HereditarilyFinite/Ordinal.thy
-lemma Seq_insf: "Seq s k \<Longrightarrow> Seq (insf s k y) (succ k)"

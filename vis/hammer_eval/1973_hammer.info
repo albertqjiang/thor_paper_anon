@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Monomorphic_Monad/Monomorphic_Monad.thy
-lemma mUnionM_return [simp]: "mUnionM (image_mset (\<lambda>x. return {#x#}) A) = return A" for A

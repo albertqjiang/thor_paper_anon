@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Buildings/Chamber.thy
-lemma chamber_in_opp_half_apartment: "SimplicialComplex.maxsimp Y C \<Longrightarrow> chamber C"

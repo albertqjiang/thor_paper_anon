@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Refine_Monadic/Refine_Basic.thy
-lemma nres_monad1[simp]: "bind (RETURN x) f = f x"

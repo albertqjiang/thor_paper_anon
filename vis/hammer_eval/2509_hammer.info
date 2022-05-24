@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Dirichlet_Series/Arithmetic_Summatory_Asymptotics.thy
-theorem summatory_totient_asymptotics: "(\<lambda>x. sum_upto (\<lambda>n. real (totient n)) x - 3 / pi\<^sup>2 * x\<^sup>2) \<in> O(\<lambda>x. x * ln x)"

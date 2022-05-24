@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/List-Infinite/CommonSet/SetInterval2.thy
-lemma iMin_atLeast: "iMin {n..} = n"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Weight_Balanced_Trees/Weight_Balanced_Trees.thy
-lemma size_del_max: "t \<noteq> Leaf \<Longrightarrow> size t = Suc(size(snd(del_max t)))"

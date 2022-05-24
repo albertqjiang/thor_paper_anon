@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/HOLCF-Prelude/examples/HLint.thy
-lemma fixes t :: "['a::Eq_sym]" shows "eq\<cdot>(take\<cdot>(length\<cdot>t)\<cdot>s)\<cdot>t \<sqsubseteq> isPrefixOf\<cdot>t\<cdot>s"

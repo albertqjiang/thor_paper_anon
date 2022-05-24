@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Coinductive/Examples/LList_CCPO_Topology.thy
-lemma isCont_LCons[THEN isCont_o2[rotated]]: "isCont (LCons x) l"

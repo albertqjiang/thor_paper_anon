@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Native_Word/Uint.thy
-lemma numeral_uint_transfer [transfer_rule]: "(rel_fun (=) cr_uint) numeral numeral"

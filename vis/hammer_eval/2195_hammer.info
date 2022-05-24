@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Incompleteness/Sigma.thy
-lemma ss_imp_se_fm: "ss_fm A \<Longrightarrow> se_fm A"

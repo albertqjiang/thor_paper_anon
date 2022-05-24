@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Binding_Syntax_Theory/Semantic_Domains.thy
-lemma updVal_preserves_eqBut: assumes "eqBut val val' ys y" shows "eqBut (val (x := sX)_xs) (val' (x := sX)_xs) ys y"

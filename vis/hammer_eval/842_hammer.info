@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Syntax_Independent_Logic/Pseudo_Term.thy
-lemma Fvars_instInp_ptrm_1[simp,intro]: assumes \<tau>: "\<tau> \<in> ptrm (Suc 0)" and "t \<in> trm" shows "Fvars (instInp \<tau> t) = insert out (FvarsT t)"

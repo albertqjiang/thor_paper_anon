@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Markov_Models/ex/PCTL.thy
-theorem Sat_sound: "Sat F \<noteq> None \<Longrightarrow> Sat F = Some (svalid F)"

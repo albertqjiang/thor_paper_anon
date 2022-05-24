@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Tree-Automata/Ta.thy
-lemma f_accessible_prepend: "\<lbrakk> (q \<rightarrow> l qs) \<in> \<delta>; q'\<in>set qs; x\<in>f_accessible \<delta> {q'} \<rbrakk> \<Longrightarrow> x\<in>f_accessible \<delta> {q}"

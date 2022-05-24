@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/AutoFocus-Stream/ListSlice.thy
-lemma list_slice2_list_slice_nth: " m < length xs div k \<Longrightarrow> list_slice2 xs k ! m = list_slice xs k ! m"

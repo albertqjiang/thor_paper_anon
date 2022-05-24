@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Polynomials/MPoly_Type_Class.thy
-lemma keys_sum_list_subset: "keys (sum_list ps) \<subseteq> Keys (set ps)"

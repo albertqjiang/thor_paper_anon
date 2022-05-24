@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Word_Lib/Word_Lemmas.thy
-lemma word_not_le: "(\<not> x \<le> (y :: 'a :: len word)) = (y < x)"

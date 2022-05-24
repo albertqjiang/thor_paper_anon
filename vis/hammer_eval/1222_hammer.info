@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Probabilistic_Prime_Tests/Jacobi_Symbol.thy
-lemma mod_nat_wlog [consumes 1, case_names modulo]: fixes P :: "nat \<Rightarrow> bool" assumes "b > 0" assumes "\<And>k. k \<in> {0..<b} \<Longrightarrow> n mod b = k \<Longrightarrow> P n" shows "P n"

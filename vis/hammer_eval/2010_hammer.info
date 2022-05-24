@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Refine_Monadic/Refine_While.thy
-lemma WHILE_eq_I_rwof: "m \<bind> WHILE c f = m \<bind> WHILEI (rwof m c f) c f"

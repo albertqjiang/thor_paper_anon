@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/DiscretePricing/Fair_Price.thy
-lemma mult_comp_basic_support_set: assumes "stock_portfolio Mkt pf1" shows "stock_portfolio Mkt (qty_mult_comp pf1 qty)"

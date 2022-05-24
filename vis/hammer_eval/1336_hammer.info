@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Recursion-Theory-I/CPair.thy
-lemma c_snd_less_arg: "x > 1 \<Longrightarrow> c_snd x < x"

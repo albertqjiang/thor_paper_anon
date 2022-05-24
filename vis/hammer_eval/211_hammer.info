@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Slicing/StaticIntra/WeakOrderDependence.thy
-lemma (in CFG_wf) wod_backward_slice_valid_node:"n \<in> wod_backward_slice S \<Longrightarrow> valid_node n"

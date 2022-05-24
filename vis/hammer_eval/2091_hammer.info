@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Sort_Encodings/G.thy
-lemma grdOf: assumes c': "c' \<in> gPB" and l': "l' \<in> set c'" and x: "x \<in> GE.nv2L l'" and i: "\<not> infTp (tpOfV x)" shows "grdOf c' l' x \<in> set c' \<and> GE.isGuard x (grdOf c' l' x)"

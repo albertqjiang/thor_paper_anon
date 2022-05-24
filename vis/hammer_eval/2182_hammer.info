@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Groebner_Macaulay/Cone_Decomposition.thy
-lemma monomial_decomp_exact: assumes "valid_decomp X qs" and "standard_decomp k qs" and "monomial_decomp qs" shows "monomial_decomp (exact k qs)"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/CYK/CYK.thy
-lemma init' : assumes "i + 1 \<le> length w" shows "set(init' G w 0 (i, 1)) = CYK G w i 1"

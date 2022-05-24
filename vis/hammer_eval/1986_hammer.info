@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Power_Sum_Polynomials/Power_Sum_Polynomials_Library.thy
-lemma coprimeI_primes: fixes a b :: "'a :: factorial_semiring" assumes "a \<noteq> 0 \<or> b \<noteq> 0" assumes "\<And>p. prime p \<Longrightarrow> p dvd a \<Longrightarrow> p dvd b \<Longrightarrow> False" shows "coprime a b"

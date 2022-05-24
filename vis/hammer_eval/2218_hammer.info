@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/VerifyThis2018/Challenge2.thy
-lemma valid_valid_line: "valid l \<longleftrightarrow> valid_line l"

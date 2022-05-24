@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Polynomials/MPoly_Type_Class_Ordered.thy
-lemma keys_higher: "keys (higher p v) = {u\<in>keys p. v \<prec>\<^sub>t u}"

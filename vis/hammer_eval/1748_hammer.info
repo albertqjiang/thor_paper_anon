@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Kleene_Algebra/DRA.thy
-lemma iteration_annil [simp]: "(x \<cdot> 0)\<^sup>\<infinity> = 1 + x \<cdot> 0"

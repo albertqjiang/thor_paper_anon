@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/JinjaThreads/Framework/FWBisimDeadlock.thy
-lemma mbisim_deadlock_inv: "s1 \<approx>m s2 \<Longrightarrow> r1.deadlock s1 = r2.deadlock s2"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/CoreC++/WellTypeRT.thy
-lemma WTrts_same_length: "\<And>Ts. P,E,h \<turnstile> es [:] Ts \<Longrightarrow> length es = length Ts"

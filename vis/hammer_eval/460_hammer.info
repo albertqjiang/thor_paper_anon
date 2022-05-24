@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Stateful_Protocol_Composition_and_Typing/Intruder_Deduction.thy
-lemma closure_is_superset: "decomp_closure M M' \<Longrightarrow> M \<subseteq> M'"

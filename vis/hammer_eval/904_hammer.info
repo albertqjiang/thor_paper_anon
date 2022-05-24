@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Automatic_Refinement/Lib/Misc.thy
-lemma mlex_leI: fixes a a' b b' N :: nat assumes "a\<le>a'" assumes "b\<le>b'" shows "a*N + b \<le> a'*N + b'"

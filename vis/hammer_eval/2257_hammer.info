@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Laplace_Transform/Uniqueness.thy
-lemma exponential_order_mono: assumes eo: "exponential_order M a f" assumes "a \<le> b" "M \<le> N" shows "exponential_order N b f"

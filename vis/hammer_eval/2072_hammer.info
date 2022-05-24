@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Universal_Turing_Machine/UF.thy
-lemma np_lemma: "rec_exec rec_np [x] = Np x"

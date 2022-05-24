@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Monad_Memo_DP/example/Longest_Common_Subsequence.thy
-lemma lcs\<^sub>a_correct: "lcs xs ys (length xs) (length ys) = lcs\<^sub>a xs ys"

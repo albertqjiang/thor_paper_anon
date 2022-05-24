@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Circus/Relations.thy
-lemma ndet_assoc: "P \<sqinter> (Q \<sqinter> R) = (P \<sqinter> Q) \<sqinter> R"

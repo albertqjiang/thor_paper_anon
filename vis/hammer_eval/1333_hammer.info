@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/List-Infinite/CommonSet/SetIntervalStep.thy
-lemma inext_cut_le_conv: "inext n I \<le> t \<Longrightarrow> inext n (I \<down>\<le> t) = inext n I"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Poincare_Disc/Poincare_Lines.thy
-lemma conjugate_preserve_poincare_collinear_iff [simp]: shows "poincare_collinear (conjugate ` A) \<longleftrightarrow> poincare_collinear A"

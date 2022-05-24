@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Tree_Decomposition/Graph.thy
-lemma path_tl: "path xs \<Longrightarrow> path (tl xs)"

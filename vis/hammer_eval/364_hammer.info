@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/GraphMarkingIBP/StackMark.thy
-theorem (in graph) final [simp]: "DataRefinement ({.Loop.} o Q5_a) R2_a R1_a Q5'_a"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Containers/Examples/Containers_DFS_Ex.thy
-lemma in_restrict [iff]: "(a, b) \<in> R \<upharpoonleft> A \<longleftrightarrow> (a, b) \<in> R \<and> b \<in> A"

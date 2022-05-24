@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Inductive_Inference/Universal.thy
-lemma r_result_converg: assumes "i = encode f" and "recfn (e_length x) f" and "eval f (list_decode x) \<down>= v" shows "\<exists>t. (\<forall>t'\<ge>t. eval r_result [t', i, x] \<down>= Suc v) \<and> (\<forall>t'<t. eval r_result [t', i, x] \<down>= 0)"

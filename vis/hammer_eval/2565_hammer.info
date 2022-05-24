@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Polynomials/MPoly_Type_Class.thy
-lemma mult_vec_left_commute: "p ** (q ** r) = q ** (p ** r)" for p::"_ \<Rightarrow>\<^sub>0 'b::comm_semiring_0"

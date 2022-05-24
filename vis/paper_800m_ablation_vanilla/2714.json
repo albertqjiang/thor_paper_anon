@@ -1,1 +1,0 @@
-{"proved": true, "proof_script": "theorem F2map_id: \"F2map id = id\"\nby (rule F.map_id0)", "proof_length": 1, "agent_info": {"prediction_time": 1.8729069232940674, "isabelle_time": 0.505098819732666, "problem_loading_time": 0.19103622436523438, "proof_length": 1, "successful_proof": "theorem F2map_id: \"F2map id = id\"\nby (rule F.map_id0)", "result": "proved"}}

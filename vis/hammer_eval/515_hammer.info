@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Group-Ring-Module/Algebra6.thy
-lemma (in PolynRg) erH_rHomTr2:"\<lbrakk>PolynRg A B Y; h \<in> rHom S B\<rbrakk> \<Longrightarrow> (erH R S X A B Y h) (1\<^sub>r) = (1\<^sub>r\<^bsub>A\<^esub>)"

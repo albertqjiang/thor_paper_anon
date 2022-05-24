@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Encodability_Process_Calculi/SourceTargetRelation.thy
-lemma (in encoding_wrt_barbs) indRelTEQ_impl_TRel_respects_barbs: fixes TRel :: "('procT \<times> 'procT) set" assumes respection: "rel_respects_barbs (indRelTEQ TRel) (STCalWB SWB TWB)" shows "rel_respects_barbs TRel TWB"

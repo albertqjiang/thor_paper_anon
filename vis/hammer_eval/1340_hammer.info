@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Gromov_Hyperbolicity/Isometries.thy
-lemma isometry_on_cong: assumes "isometry_on X f" "\<And>x. x \<in> X \<Longrightarrow> g x = f x" shows "isometry_on X g"

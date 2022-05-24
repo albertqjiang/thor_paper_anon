@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Call_Arity/ArityEtaExpansion.thy
-lemma subst_Aeta_expand: "(Aeta_expand n e)[x::=y] = Aeta_expand n e[x::=y]"

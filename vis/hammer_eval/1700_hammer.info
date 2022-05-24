@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/FOL-Fitting/FOL_Fitting.thy
-lemma shift_eq [simp]: \<open>i = j \<Longrightarrow> (e\<langle>i:T\<rangle>) j = T\<close>

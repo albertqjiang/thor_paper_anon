@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Taylor_Models/Taylor_Models.thy
-lemma approx_tm_num_Vars: assumes "approx_tm prec ord I a f env = Some t" shows "max_Var_floatarith f \<le> length env"

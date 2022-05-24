@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/JinjaThreads/Framework/LTS.thy
-lemma rtranclp_flip [flip_simps]: "(flip r)^** = flip r^**"

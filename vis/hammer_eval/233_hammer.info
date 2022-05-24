@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Polynomial_Factorization/Missing_List.thy
-lemma set_concat_lists[simp]: "set (concat_lists xs) = {as. length as = length xs \<and> (\<forall>i<length xs. as ! i \<in> set (xs ! i))}"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Stern_Brocot/Stern_Brocot_Tree.thy
-lemma stern_brocot_iterate_aux_Det: assumes "Det m = 1" "0 < snd (mediant m)" shows "Det (root (traverse_tree path (stern_brocot_iterate_aux m))) = 1" and "0 < snd (mediant (root (traverse_tree path (stern_brocot_iterate_aux m))))"

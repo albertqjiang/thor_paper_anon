@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Nullstellensatz/Nullstellensatz.thy
-lemma (in ordered_term) lt_sum_le_Max: "lt (sum f A) \<preceq>\<^sub>t ord_term_lin.Max {lt (f a) | a. a \<in> A}"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/LocalLexing/TheoremD2.thy
-lemma Derives1_prefix: assumes ab: "Derives1 \<delta> i r (a@b)" assumes split: "splits_at \<delta> i \<alpha> N \<beta>" shows "is_prefix \<alpha> a \<or> is_prefix a \<alpha>"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Perron_Frobenius/Perron_Frobenius_Irreducible.thy
-lemma smult_eigen_vector: fixes a :: "'a :: field" assumes "eigen_vector A v x" shows "eigen_vector (a *k A) v (a * x)"

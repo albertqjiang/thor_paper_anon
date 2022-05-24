@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/BirdKMP/Theory_Of_Lists.thy
-lemma sconcat_strict[simp]: "sconcat\<cdot>\<bottom> = \<bottom>"

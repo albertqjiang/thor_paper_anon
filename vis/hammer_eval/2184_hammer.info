@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Kruskal/Graph_Definition.thy
-lemma delete_edge_was_path: assumes "is_path_undir (delete_edge a b c G) x p y" shows "is_path_undir G x p y"

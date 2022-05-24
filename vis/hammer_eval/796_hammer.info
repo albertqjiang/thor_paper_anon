@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Group-Ring-Module/Algebra5.thy
-lemma (in TwoRings) i_contract_ideal:"\<lbrakk>f \<in> rHom R R'; ideal R' J \<rbrakk> \<Longrightarrow> ideal R (i_contract f R R' J)"

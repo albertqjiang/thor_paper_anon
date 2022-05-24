@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Group-Ring-Module/Algebra3.thy
-lemma (in Group) ZassenhausTr2_4:"\<lbrakk>G \<guillemotright> H; G \<guillemotright> H1; Gp G H \<triangleright> H1; h \<in> H; h1 \<in> H1\<rbrakk> \<Longrightarrow> h \<cdot> h1 \<cdot> (\<rho> h) \<in> H1"

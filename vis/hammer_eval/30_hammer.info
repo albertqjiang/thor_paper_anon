@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/JinjaThreads/Framework/FWLock.thy
-lemma has_lock_may_lock: "has_lock l t \<Longrightarrow> may_lock l t"

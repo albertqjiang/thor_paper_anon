@@ -1,1 +1,0 @@
-{"proved": true, "proof_script": "lemma \"case_prod match_brz (M 128)\"\nby eval", "proof_length": 1, "agent_info": {"prediction_time": 1.9004011154174805, "isabelle_time": 1.0665335655212402, "problem_loading_time": 0.29082322120666504, "proof_length": 1, "successful_proof": "lemma \"case_prod match_brz (M 128)\"\nby eval", "result": "proved"}}

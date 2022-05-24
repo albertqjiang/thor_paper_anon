@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Iptables_Semantics/Common/Negation_Type.thy
-lemma getPos_set: "Pos a \<in> set x \<longleftrightarrow> a \<in> set (getPos x)"

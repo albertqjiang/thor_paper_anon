@@ -1,1 +1,0 @@
-{"proved": true, "proof_script": "lemma cross_0[simp]: \"cross 0 a b=0\"\nby (simp add: cross_def)", "proof_length": 1, "agent_info": {"prediction_time": 1.840552568435669, "isabelle_time": 0.03895425796508789, "problem_loading_time": 2.9938578605651855, "proof_length": 1, "successful_proof": "lemma cross_0[simp]: \"cross 0 a b=0\"\nby (simp add: cross_def)", "result": "proved"}}

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/QHLProver/Grover.thy
-lemma exH_k_mult_psi_is_pre: "exH_k (n - 1) *\<^sub>v \<psi> = ket_pre"

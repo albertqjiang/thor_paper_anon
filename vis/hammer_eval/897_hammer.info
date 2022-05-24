@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Inductive_Inference/LIM_BC.thy
-lemma V_subseteq_R1: "V_bclim i \<subseteq> \<R>"

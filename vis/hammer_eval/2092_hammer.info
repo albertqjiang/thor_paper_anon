@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/MFOTL_Monitor/Trace.thy
-lemma plen_take_prefix[simp]: "plen (take_prefix i \<sigma>) = i"

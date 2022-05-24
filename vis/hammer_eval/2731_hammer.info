@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Affine_Arithmetic/Affine_Approximation.thy
-lemma singleton_0[simp]: "singleton_pdevs 0 = zero_pdevs"

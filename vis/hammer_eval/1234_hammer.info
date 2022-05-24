@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Isabelle_Marries_Dirac/Complex_Vectors.thy
-lemma module_cpx_vec [simp]: "Module.module cpx_rng (module_cpx_vec n)"

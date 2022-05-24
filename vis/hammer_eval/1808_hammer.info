@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Coinductive/TLList.thy
-lemma tmap_eq_TNil_conv: "tmap f g xs = TNil y \<longleftrightarrow> (\<exists>y'. xs = TNil y' \<and> g y' = y)"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Inductive_Confidentiality/GeneralAttacker/MessageGA.thy
-lemma Key_synth_eq [simp]: "(Key K \<in> synth H) = (Key K \<in> H)"

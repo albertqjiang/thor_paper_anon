@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Category3/EpiMonoIso.thy
-lemma sections_compose [intro]: assumes "section m" and "section m'" and "seq m' m" shows "section (m' \<cdot> m)"

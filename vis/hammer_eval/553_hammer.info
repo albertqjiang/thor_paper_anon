@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Polynomials/MPoly_Type_Class_Ordered.thy
-lemma pps_to_list_nth_lessI: assumes "j < i" and "i < card S" shows "(pps_to_list S) ! i \<prec>\<^sub>t (pps_to_list S) ! j"

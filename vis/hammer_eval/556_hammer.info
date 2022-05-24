@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Modal_Logics_for_NTS/Equivalence_Implies_Bisimilarity.thy
-lemma equivalent_iff_not_distinguished: "(P =\<cdot> Q) \<longleftrightarrow> \<not>(\<exists>x. x distinguishes P from Q)"

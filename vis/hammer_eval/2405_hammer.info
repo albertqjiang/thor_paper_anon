@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/ZFC_in_HOL/ZFC_in_HOL.thy
-lemma sup_V_0_left [simp]: "0 \<squnion> a = a" and sup_V_0_right [simp]: "a \<squnion> 0 = a" for a::V

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Probabilistic_Timed_Automata/library/Lib.thy
-lemma nat_eventually_critical: assumes "P i" "\<not> P j" "i < j" shows "\<exists> k \<ge> i. P k \<and> \<not> P (Suc k)"

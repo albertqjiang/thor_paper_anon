@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Regular_Algebras/Regular_Algebra_Models.thy
-lemma arden_l: assumes "\<not> l_ewp y" "x = y\<cdot>x + z" shows "x = y\<^sup>\<star> \<cdot> z"

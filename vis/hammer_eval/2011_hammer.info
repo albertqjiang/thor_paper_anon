@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Impossible_Geometry/Impossible_Geometry.thy
-lemma point_dist [simp]: "dist (Point xA yA) (Point xB yB) = sqrt ((xA - xB)^2 + (yA - yB)^2)"

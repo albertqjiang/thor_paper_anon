@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/MiniML/Type.thy
-lemma app_subst_Cons: "$ S (x#l) = ($ S x)#($ S l)"

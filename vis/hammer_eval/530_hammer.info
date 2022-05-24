@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Octonions/Octonions.thy
-lemma octo_product_alternative_right: "x * (y * y) = (x * y :: octo) * y"

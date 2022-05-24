@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/LocalLexing/TheoremD2.thy
-lemma \<X>_is_prefix: "t \<in> \<X> k \<Longrightarrow> is_prefix (snd t) (drop k Doc)"

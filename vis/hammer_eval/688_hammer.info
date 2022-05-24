@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Octonions/Octonions.thy
-lemma cnj_numeral [simp]: "cnj (numeral x) = numeral x"

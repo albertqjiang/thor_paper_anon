@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Coinductive_Languages/Coinductive_Language.thy
-theorem Plus_assoc: "Plus (Plus r s) t = Plus r (Plus s t)"

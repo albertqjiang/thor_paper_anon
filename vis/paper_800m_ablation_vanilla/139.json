@@ -1,1 +1,0 @@
-{"proved": true, "proof_script": "lemma size0: \"0 < int CARD ('a)\"\nusing size1\nby auto", "proof_length": 2, "agent_info": {"prediction_time": 3.6322455406188965, "isabelle_time": 0.5439136028289795, "problem_loading_time": 1.1230413913726807, "proof_length": 2, "successful_proof": "lemma size0: \"0 < int CARD ('a)\"\nusing size1\nby auto", "result": "proved"}}

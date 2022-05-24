@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Menger/Y_neq_new_last.thy
-lemma Q_hit_edges_disjoint: "\<Union>(edges_of_walk ` (Q - {Q_hit})) \<inter> edges_of_walk Q_hit = {}"

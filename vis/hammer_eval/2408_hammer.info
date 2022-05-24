@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Simpl/Semantic.thy
-lemma exec_Call_body: "\<Gamma> p=Some bdy \<Longrightarrow> \<Gamma>\<turnstile>\<langle>Call p,s\<rangle> \<Rightarrow> t = \<Gamma>\<turnstile>\<langle>the (\<Gamma> p),s\<rangle> \<Rightarrow> t"

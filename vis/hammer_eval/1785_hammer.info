@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Network_Security_Policy_Verification/Lib/FiniteGraph.thy
-lemma backflows_finite: "finite E \<Longrightarrow> finite (backflows E)"

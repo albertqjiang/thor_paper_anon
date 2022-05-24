@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Parity_Game/Attractor.thy
-lemma attractor_in_V: "W \<subseteq> V \<Longrightarrow> attractor p W \<subseteq> V"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/FocusStreamsCaseStudies/ListExtras.thy
-lemma list_nth_append1: assumes "i < length x" shows "(b # x) ! i = (b # x @ y) ! i"

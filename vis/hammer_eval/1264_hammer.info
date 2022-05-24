@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/KBPs/KBPs.thy
-lemma jkbpTn_jkbpCn_represents: "jkbpT\<^bsub>n\<^esub> jkbpC = jkbpC\<^bsub>n\<^esub>"

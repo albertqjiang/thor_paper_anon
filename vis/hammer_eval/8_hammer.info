@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/BNF_CC/DDS.thy
-lemma map_dds_comp: "map_dds f g (map_dds f' g' S) = map_dds (f' \<circ> f) (g \<circ> g') S"

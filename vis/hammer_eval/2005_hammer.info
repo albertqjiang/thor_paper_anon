@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Concurrent_Ref_Alg/Galois_Connections.thy
-lemma dist_inf_mono: assumes distF: "dist_over_inf F" shows "mono F"

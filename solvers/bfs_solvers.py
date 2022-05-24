@@ -15,9 +15,8 @@ import gin
 import numpy as np
 
 from func_timeout.exceptions import FunctionTimedOut
-from isabelle_utils.evaluation_dataset_utils import get_universal_test_theorems
 from mesh_transformer_utils.load_model_interactive import InteractiveTransformer
-from third_party.pisa.src.main.python.PisaFlexibleClient import initialise_env
+from PisaFlexibleClient import initialise_env
 import metric_logging
 
 logging.getLogger().setLevel(logging.INFO)
@@ -32,7 +31,7 @@ logging.basicConfig(
 STATE_PREFIX = "<ISA_OBS>"
 PROOF_PREFIX = "<ISA_PRF>"
 TRIMMED_PROOF_PREFIX = "<ISA_TRIM_PRF>"
-INPUT_EOS = "Cambridge"
+INPUT_EOS = "<INPUT_EOS>"
 OUTPUT_EOS = "<|endoftext|>"
 DEFAULT_MAX_LENGTH = 3000
 
@@ -135,7 +134,6 @@ class BestFirstSearchSolver:
             f"bfs_solvers:BestFirstSearchSolver - Using sampling method {sampling_method}"
         )
 
-        self.test_theorems = get_universal_test_theorems()
         self.model = InteractiveTransformer(
             self.checkpoint_dir,
             self.batch_size,
@@ -482,7 +480,7 @@ def parse_args():
         "--checkpoint-dir",
         "-cd",
         type=str,
-        default="gs://n2formal-public-data-europe/models/last_1",
+        default="gs://<MODEL_PATH>",
     )
     parser.add_argument("--port", "-p", type=int, default=8000)
     parser.add_argument(

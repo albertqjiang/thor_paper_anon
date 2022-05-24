@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Ordinary_Differential_Equations/IVP/Flow.thy
-lemma varexivl_eq_exivl: assumes "t \<in> existence_ivl0 x0" shows "var.existence_ivl x0 t a = existence_ivl0 x0"

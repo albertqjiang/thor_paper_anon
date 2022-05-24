@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Security_Protocol_Refinement/Refinement/Channels.thy
-lemma fake_expanding [intro]: "H \<subseteq> fake T U H"

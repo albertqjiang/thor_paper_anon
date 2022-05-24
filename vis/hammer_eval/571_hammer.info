@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Buildings/Chamber.thy
-lemma restrict_endo: assumes "ChamberSubcomplex Y" "f\<turnstile>Y \<subseteq> Y" shows "ChamberComplexEndomorphism Y (restrict1 f (\<Union>Y))"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/JinjaThreads/Framework/FWThread.thy
-lemma free_thread_id_iff: "free_thread_id ts t = (ts t = None)"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/pGCL/Transformers.thy
-lemma le_trans_trans[trans]: "\<lbrakk> le_trans x y; le_trans y z \<rbrakk> \<Longrightarrow> le_trans x z"

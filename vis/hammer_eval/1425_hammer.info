@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/CakeML/generated/LemExtraDefs.thy
-lemma genlist_length [simp] : "length (genlist f n) = n"

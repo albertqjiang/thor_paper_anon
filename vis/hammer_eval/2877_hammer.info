@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Gaussian_Integers/Gaussian_Integers.thy
-lemma normalized_gauss_int': assumes "normalize z = z" "z \<noteq> 0" shows "ReZ z > 0" "ImZ z \<ge> 0"

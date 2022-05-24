@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Ordinal/OrdinalInverse.thy
-lemma ordinal_oLog_0: "oLog b 0 = 0"

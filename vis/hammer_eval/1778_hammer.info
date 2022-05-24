@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Transformer_Semantics/Kleisli_Transformers.thy
-lemma iffb_ifbd_dual: "Inf_pres \<phi> \<Longrightarrow> fb\<^sup>-\<^sub>\<F> \<phi> = (op\<^sub>K \<circ> bd\<^sup>-\<^sub>\<F> \<circ> \<partial>\<^sub>F) \<phi>"

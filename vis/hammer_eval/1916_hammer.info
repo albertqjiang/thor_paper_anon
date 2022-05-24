@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/ZFC_in_HOL/Kirby.thy
-lemma add_Limit: "Limit \<alpha> \<Longrightarrow> x + \<alpha> = (SUP z\<in>elts \<alpha>. x + z)"

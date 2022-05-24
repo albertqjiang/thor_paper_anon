@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Physical_Quantities/ISQ_Algebra.thy
-lemma qinverse_weak_cong: assumes "x \<cong>\<^sub>Q y" shows "x\<^sup>-\<^sup>\<one> \<cong>\<^sub>Q y\<^sup>-\<^sup>\<one>"

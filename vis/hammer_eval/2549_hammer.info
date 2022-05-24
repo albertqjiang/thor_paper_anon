@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/JinjaThreads/Basic/Set_Monad.thy
-lemma single_code [code]: "single a = set [a]"

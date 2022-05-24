@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Safe_Distance/Safe_Distance.thy
-lemma init_s : "t \<le> 0 \<Longrightarrow> s t = s0"

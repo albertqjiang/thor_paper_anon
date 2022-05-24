@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Diophantine_Eqns_Lin_Hom/List_Vector.thy
-lemma less_append: assumes "xs <\<^sub>v vs " and "ys \<le>\<^sub>v ws" shows "xs @ ys <\<^sub>v vs @ ws"

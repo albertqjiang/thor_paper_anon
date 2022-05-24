@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/ComponentDependencies/DataDependenciesCaseStudy.thy
-lemma OUTfromVCorrect1_data10: "OUTfromVCorrect1 data10"

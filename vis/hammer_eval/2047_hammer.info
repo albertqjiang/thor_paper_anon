@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Universal_Turing_Machine/UF.thy
-lemma bl2wc_Oc_then_Bk[simp]: "bl2wc (Oc\<up> rs@Bk\<up> n) = bl2wc (Oc\<up> rs)"

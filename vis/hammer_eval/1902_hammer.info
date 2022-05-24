@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/LTL_to_DRA/Auxiliary/Map2.thy
-lemma map_reduce: assumes "dom m = {a} \<union> B" shows "\<exists>m'. dom m' = B \<and> (\<forall>x \<in> B. m x = m' x)"

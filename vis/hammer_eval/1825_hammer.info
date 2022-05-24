@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Jinja/J/BigStep.thy
-lemma eval_finalId: "final e \<Longrightarrow> P \<turnstile> \<langle>e,s\<rangle> \<Rightarrow> \<langle>e,s\<rangle>"

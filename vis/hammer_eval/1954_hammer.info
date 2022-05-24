@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Symmetric_Polynomials/Symmetric_Polynomials.thy
-lemma keys_uminus [simp]: "keys (-m) = keys m"

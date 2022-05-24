@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Approximation_Algorithms/Approx_BP_Hoare.thy
-lemma L_lower_bound_card: assumes "bp P" shows "card L\<^sub>U \<le> card P"

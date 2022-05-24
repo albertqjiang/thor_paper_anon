@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/KAD/Domain_Semiring.thy
-lemma dom_iso: "x \<le> y \<Longrightarrow> d x \<le> d y"

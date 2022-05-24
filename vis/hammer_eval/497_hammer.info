@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Coinductive/TLList_CCPO.thy
-lemma cont_comp: "\<lbrakk> mcont luba orda lubb ordb g; cont lubb ordb lubc ordc f \<rbrakk> \<Longrightarrow> cont luba orda lubc ordc (f \<circ> g)"

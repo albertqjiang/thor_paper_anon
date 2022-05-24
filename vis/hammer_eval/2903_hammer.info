@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Gromov_Hyperbolicity/Library_Complements.thy
-lemma (in wo_rel) max2_xx [simp]: "max2 x x = x"

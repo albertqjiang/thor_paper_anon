@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Prpu_Maxflow/Relabel_To_Front.thy
-lemma push_precondI_nz: "\<lbrakk>excess f u \<noteq> 0; (u,v)\<in>cfE_of f; l u = l v + 1\<rbrakk> \<Longrightarrow> push_precond f l (u,v)"

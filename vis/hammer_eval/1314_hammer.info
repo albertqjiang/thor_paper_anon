@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Partial_Order_Reduction/Extensions/Coinductive_List_Extensions.thy
-lemma lselect_llength_le[simp]: "llength (lselect s w) \<le> esize s"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Category3/Category.thy
-lemma arr_dom [simp]: assumes "arr f" shows "arr (dom f)"

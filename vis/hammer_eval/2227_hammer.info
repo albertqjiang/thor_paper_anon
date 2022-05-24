@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Physical_Quantities/ISQ_Proof.thy
-lemma magQ_qinverse [si_eq]: "\<lbrakk>x\<^sup>-\<^sup>\<one>\<rbrakk>\<^sub>Q = inverse \<lbrakk>x\<rbrakk>\<^sub>Q"

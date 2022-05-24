@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/SPARCv8/lib/Lib.thy
-lemma tl_map_simp: "tl (map a b) = map a (tl b)"

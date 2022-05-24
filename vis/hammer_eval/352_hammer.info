@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Dirichlet_Series/Dirichlet_Series_Analysis.thy
-lemma abs_conv_abscissa_PInfI [intro]: "(\<And>s. \<not>fds_converges f s) \<Longrightarrow> abs_conv_abscissa f = \<infinity>"

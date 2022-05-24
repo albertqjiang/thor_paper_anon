@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Laplace_Transform/Existence.thy
-lemma fixes a::complex\<comment>\<open>TODO: generalize\<close> assumes a: "0 < Re a" shows integrable_on_cexp_minus_to_infinity: "(\<lambda>x. exp (x *\<^sub>R - a)) integrable_on {c..}" and integral_cexp_minus_to_infinity: "integral {c..} (\<lambda>x. exp (x *\<^sub>R - a)) = exp (c *\<^sub>R - a) / a"

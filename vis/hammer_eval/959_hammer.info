@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/KAD/Antidomain_Semiring.thy
-lemma fbox_subdist: "|x] d y + |x] d z \<le> |x] (d y + d z)"

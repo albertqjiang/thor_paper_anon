@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/RSAPSS/EMSAPSS.thy
-lemma drop_bv_prepend_help4: "\<lbrakk>x \<le> y\<rbrakk> \<Longrightarrow> drop x (bv_prepend y b []) = bv_prepend (y-x) b []"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Root_Balanced_Tree/Root_Balanced_Tree.thy
-lemma bal_eq: "bal n xs = Balance.bal n xs"

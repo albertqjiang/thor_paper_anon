@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Group-Ring-Module/Algebra1.thy
-lemma ninv_hom:"\<lbrakk>f \<in> {i. i \<le> n} \<rightarrow> {i. i \<le> n}; inj_on f {i. i \<le> n}\<rbrakk> \<Longrightarrow> ninv n f \<in> {i. i \<le> n} \<rightarrow> {i. i \<le> n}"

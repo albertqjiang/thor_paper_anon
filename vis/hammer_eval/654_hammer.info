@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Completeness/Completeness.thy
-lemma notTerminalNotSATAxiom: "\<not> terminal subs gamma \<Longrightarrow> \<not> SATAxiom (sequent gamma)"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Group-Ring-Module/Algebra2.thy
-lemma (in Group) l_i_unique:"\<lbrakk>a \<in> carrier G; b \<in> carrier G; b \<cdot> a = \<one> \<rbrakk> \<Longrightarrow> (\<rho> a) = b "

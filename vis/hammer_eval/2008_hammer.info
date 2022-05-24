@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Taylor_Models/Polynomial_Expression.thy
-lemma shift1_head : "isnpolyh p n0 \<Longrightarrow> head (shift1 p) = head p"

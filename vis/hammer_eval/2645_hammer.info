@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Probabilistic_Noninterference/Language_Semantics.thy
-lemma properL_proper[simp]: "\<lbrakk>properL cl; c \<in> set cl\<rbrakk> \<Longrightarrow> proper c"

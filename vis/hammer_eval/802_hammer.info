@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Simplex/Abstract_Linear_Poly.thy
-lemma distinct_vars_list: "distinct (vars_list p)"

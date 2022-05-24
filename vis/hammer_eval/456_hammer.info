@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Finite_Automata_HF/Finite_Automata_HF.thy
-theorem regular_finite: "finite L \<Longrightarrow> regular L"

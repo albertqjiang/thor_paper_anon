@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/CryptHOL/Misc_CryptHOL.thy
-lemma map_le_Some1D: "\<lbrakk> m \<subseteq>\<^sub>m m'; m x = Some y \<rbrakk> \<Longrightarrow> m' x = Some y"

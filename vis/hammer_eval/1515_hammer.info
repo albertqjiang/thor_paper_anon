@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/RefinementReactive/Reactive.thy
-lemma "symbS o symbS' \<noteq> symbSS'"

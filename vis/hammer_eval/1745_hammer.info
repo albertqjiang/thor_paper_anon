@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Resolution_FOL/Tree.thy
-lemma branch_inv_Branching_Right: "branch (Right#b) (Branching l r) \<longleftrightarrow> branch b r"

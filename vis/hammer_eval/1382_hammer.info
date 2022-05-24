@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Poincare_Bendixson/Limit_Set.thy
-lemma \<omega>_limit_set_empty: assumes "\<not> ({0..} \<subseteq> existence_ivl0 x)" shows "\<omega>_limit_set x = {}"

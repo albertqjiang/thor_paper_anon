@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/InfPathElimination/SubRel.thy
-lemma fst_of_sp_is_vert : assumes "subpath g v1 es v2 subs" shows "v1 \<in> Graph.vertices g"

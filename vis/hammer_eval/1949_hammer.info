@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Stable_Matching/Contracts.thy
-lemma CD_on_domain: assumes "d \<in> ds" shows "CD_on ds A \<inter> Field (Pd d) = Cd d (A \<inter> Field (Pd d))"

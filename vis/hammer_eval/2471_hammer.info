@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Flow_Networks/Network.thy
-lemma zero_is_flow: "Flow c s t (\<lambda>_. 0)"

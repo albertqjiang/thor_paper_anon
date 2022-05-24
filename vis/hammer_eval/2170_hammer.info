@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Smooth_Manifolds/Cotangent_Space.thy
-lemma cotangent_field_is_cotangent: "cotangent_field f p \<in> cotangent_space p"

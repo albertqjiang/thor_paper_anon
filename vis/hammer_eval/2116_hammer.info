@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Group-Ring-Module/Algebra2.thy
-lemma (in Order) Adjunct_segment_sub:"\<lbrakk>S_inductive_set D; Chain D X\<rbrakk> \<Longrightarrow> segment (Iod D (insert (Sup D X) X)) (Sup D X) \<subseteq> X"

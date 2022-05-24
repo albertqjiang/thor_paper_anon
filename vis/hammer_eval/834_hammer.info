@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/UpDown_Scheme/Grid.thy
-lemma sparsegrid'I[intro]: assumes b: "b \<in> sparsegrid' dm" and p: "p \<in> grid b ds" shows "p \<in> sparsegrid' dm"

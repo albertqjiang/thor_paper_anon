@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Well_Quasi_Orders/Well_Quasi_Orders.thy
-lemma wqo_on_class [simp, intro]: "wqo_on (\<le>) (UNIV :: ('a :: wqo) set)"

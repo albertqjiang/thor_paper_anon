@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Blue_Eyes/Blue_Eyes.thy
-lemma possible_trans: "possible n p w1 w2 \<Longrightarrow> possible n p w2 w3 \<Longrightarrow> possible n p w1 w3"

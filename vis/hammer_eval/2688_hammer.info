@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Gauss_Jordan/Elementary_Operations.thy
-lemma invertible_interchange_rows: "invertible (interchange_rows (mat 1) a b)"

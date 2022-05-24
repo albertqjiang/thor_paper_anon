@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Circus/Relations.thy
-lemma disj_subst: "P = R \<Longrightarrow> ((P::'\<alpha> predicate) \<or> Q) = (R \<or> Q)"

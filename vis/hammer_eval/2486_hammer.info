@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/SATSolverVerification/SatSolverVerification.thy
-lemma lexLessAppend: assumes "b \<noteq> []" shows "(a @ b, a) \<in> lexLess"

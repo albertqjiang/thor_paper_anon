@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Cayley_Hamilton/Square_Matrix.thy
-lemma upd_cols_transpose: "upd_cols (transpose M) i p = transpose (upd_rows M i p)"

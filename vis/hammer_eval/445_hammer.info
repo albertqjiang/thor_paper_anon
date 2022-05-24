@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Splay_Tree/Splay_Heap.thy
-lemma mset_partition: "\<lbrakk> bst_wrt (\<le>) t; partition p t = (l',r') \<rbrakk> \<Longrightarrow> mset_tree t = mset_tree l' + mset_tree r'"

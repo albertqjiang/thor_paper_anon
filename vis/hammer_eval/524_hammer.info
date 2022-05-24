@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/BirdKMP/Theory_Of_Lists.thy
-lemma snull_TT_conv[simp]: "(snull\<cdot>xs = TT) \<longleftrightarrow> (xs = [::])"

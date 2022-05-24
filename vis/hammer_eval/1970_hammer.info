@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/MFOTL_Monitor/Monitor.thy
-lemma plus_eq_enat_iff: "a + b = enat i \<longleftrightarrow> (\<exists>j k. a = enat j \<and> b = enat k \<and> j + k = i)"

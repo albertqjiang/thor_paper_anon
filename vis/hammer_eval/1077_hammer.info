@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Binding_Syntax_Theory/Transition_QuasiTerms_Terms.thy
-lemma pickE_alphaEnv_iff_equal: assumes "goodEnv rho" and "goodEnv rho'" shows "(pickE rho &= pickE rho') = (rho = rho')"

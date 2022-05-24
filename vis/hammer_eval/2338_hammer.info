@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Graph_Saturation/LabeledGraphs.thy
-lemma on_triple_univ[intro!]: "univalent f \<Longrightarrow> univalent (on_triple f)"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Polynomials/MPoly_Type_Class.thy
-lemma adds_pp_splus: assumes "t adds\<^sub>p v" shows "t adds\<^sub>p s \<oplus> v"

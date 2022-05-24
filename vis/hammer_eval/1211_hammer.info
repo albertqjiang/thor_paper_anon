@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Planarity_Certificates/Planarity/Graph_Genus.thy
-lemma symp_fc_equiv: "symp fc_equiv"

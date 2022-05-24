@@ -1,9 +1,0 @@
-contexts:
-  tpu:
-    backend_type: gcp
-    vm_name: atp_v3_5
-    zone: europe-west4-a
-    storage_dir: mrunner_scratch
-    venv_path: ~/venvs/atp
-
-current_context: tpu

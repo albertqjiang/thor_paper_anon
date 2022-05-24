@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/List-Infinite/CommonSet/SetIntervalStep.thy
-lemma iprev_le_iMin: "n \<le> iMin I \<Longrightarrow> iprev n I = n"

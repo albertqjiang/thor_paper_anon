@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Sort_Encodings/G.thy
-lemma countable_GE_wtPsym: "countable (Collect GE_wtPsym)" (is "countable ?K")

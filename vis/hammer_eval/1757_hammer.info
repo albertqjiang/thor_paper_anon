@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Density_Compiler/PDF_Values.thy
-lemma BoolVal_in_type_universe[simp]: "BoolVal v \<in> type_universe BOOL"

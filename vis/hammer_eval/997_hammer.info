@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Extended_Finite_State_Machines/FSet_Utils.thy
-lemma hd_sort_Min: "l \<noteq> [] \<Longrightarrow> hd (sort l) = Min (set l)"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/List-Infinite/ListInf/ListInf.thy
-lemma "f \<Down> n = map f [0..<n]"

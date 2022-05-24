@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Polynomials/Power_Products.thy
-lemma plus_adds_mono: assumes "a adds b" and "c adds d" shows "a + c adds b + d"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Median_Of_Medians_Selection/Median_Of_Medians_Selection.thy
-lemma select_in_set [intro,simp]: assumes "k < length xs" shows "select k xs \<in> set xs"

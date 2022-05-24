@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Complx/SmallStep.thy
-lemma rtrancl_mono_proof[mono]: "(\<And>a b. x a b \<longrightarrow> y a b) \<Longrightarrow> rtranclp x a b \<longrightarrow> rtranclp y a b"

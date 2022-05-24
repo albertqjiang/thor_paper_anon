@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Probabilistic_Noninterference/Language_Semantics.thy
-lemma WtFT_le_1[simp]: "WtFT cl \<le> 1" (is "?L \<le> 1")

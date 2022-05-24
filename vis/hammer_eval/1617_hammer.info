@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Complex_Geometry/Oriented_Circlines.thy
-lemma moebius_ocircline_circline: shows "moebius_ocircline M H = of_circline (moebius_circline M (of_ocircline H)) \<or> moebius_ocircline M H = opposite_ocircline (of_circline (moebius_circline M (of_ocircline H)))"

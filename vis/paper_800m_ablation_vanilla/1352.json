@@ -1,1 +1,0 @@
-{"proved": true, "proof_script": "lemma is_igb_graph: \"igb_graph G\"\nby unfold_locales", "proof_length": 1, "agent_info": {"prediction_time": 1.8876638412475586, "isabelle_time": 0.1719684600830078, "problem_loading_time": 4.750365495681763, "proof_length": 1, "successful_proof": "lemma is_igb_graph: \"igb_graph G\"\nby unfold_locales", "result": "proved"}}

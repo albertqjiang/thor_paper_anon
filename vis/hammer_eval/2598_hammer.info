@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Noninterference_Ipurge_Unwinding/IpurgeUnwinding.thy
-lemma sinks_interference_eq: "((u, D x) \<in> I \<or> (\<exists>v \<in> sinks I D u xs. (v, D x) \<in> I)) = (D x \<in> sinks I D u (xs @ [x]))"

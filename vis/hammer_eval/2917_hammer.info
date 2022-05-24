@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/UPF/SeqComposition.thy
-lemma flat_orA_deny[dest]:"flat_orA x = deny y \<Longrightarrow> x = deny(deny y)"

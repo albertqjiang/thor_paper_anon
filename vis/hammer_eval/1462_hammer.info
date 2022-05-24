@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/List-Infinite/ListInf/List2.thy
-lemma list_drop_eq_conv: "(xs = ys) = (\<forall>n. xs \<up> n = ys \<up> n)"

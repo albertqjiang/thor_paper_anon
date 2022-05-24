@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Transitive-Closure-II/RTrancl.thy
-lemma mk_rtrancl_sound: "mk_rtrancl init \<subseteq> R^* `` set_of init"

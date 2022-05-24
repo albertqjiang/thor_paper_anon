@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Core_SC_DOM/safely_composable/classes/ElementClass.thy
-lemma cast\<^sub>E\<^sub>l\<^sub>e\<^sub>m\<^sub>e\<^sub>n\<^sub>t\<^sub>2\<^sub>N\<^sub>o\<^sub>d\<^sub>e_inject [simp]: "cast\<^sub>E\<^sub>l\<^sub>e\<^sub>m\<^sub>e\<^sub>n\<^sub>t\<^sub>2\<^sub>N\<^sub>o\<^sub>d\<^sub>e x = cast\<^sub>E\<^sub>l\<^sub>e\<^sub>m\<^sub>e\<^sub>n\<^sub>t\<^sub>2\<^sub>N\<^sub>o\<^sub>d\<^sub>e y \<longleftrightarrow> x = y"

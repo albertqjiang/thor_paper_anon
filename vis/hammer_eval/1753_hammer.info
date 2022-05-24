@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Abstract-Rewriting/SN_Orders.thy
-lemma plus_gt_right_mono: "x \<succ> y \<Longrightarrow> a + x \<succ> a + y"

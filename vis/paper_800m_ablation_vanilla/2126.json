@@ -1,1 +1,0 @@
-{"proved": true, "proof_script": "lemma cor_add: shows \"cor (a + b) = cor a + cor b\"\nby simp", "proof_length": 1, "agent_info": {"prediction_time": 1.8548178672790527, "isabelle_time": 0.04093027114868164, "problem_loading_time": 0.5315248966217041, "proof_length": 1, "successful_proof": "lemma cor_add: shows \"cor (a + b) = cor a + cor b\"\nby simp", "result": "proved"}}

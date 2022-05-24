@@ -1,1 +1,0 @@
-{"proved": true, "proof_script": "lemma \"mmonitorable \\<phi>\\<^sub>e\\<^sub>x\"\nby eval", "proof_length": 1, "agent_info": {"prediction_time": 1.8080272674560547, "isabelle_time": 4.220096111297607, "problem_loading_time": 0.06183958053588867, "proof_length": 1, "successful_proof": "lemma \"mmonitorable \\<phi>\\<^sub>e\\<^sub>x\"\nby eval", "result": "proved"}}

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Monomorphic_Monad/Monomorphic_Monad.thy
-lemma alt_state_parametric [transfer_rule]: "((M ===> M ===> M) ===> rel_stateT S M ===> rel_stateT S M ===> rel_stateT S M) alt_state alt_state"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/MonoBoolTranAlgebra/Statements.thy
-lemma wp_mono2: "p \<le> q \<Longrightarrow> wp x p \<le> wp x q"

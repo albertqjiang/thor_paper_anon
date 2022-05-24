@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Inductive_Inference/Partial_Recursive.thy
-lemma tuple_encode_decode' [simp]: "tuple_encode n (tuple_decode n i) = i"

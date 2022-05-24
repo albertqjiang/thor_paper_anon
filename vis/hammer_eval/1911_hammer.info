@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Separation_Algebra/Map_Extra.thy
-lemma restrict_map_sub_disj: "h |` S \<bottom> h `- S"

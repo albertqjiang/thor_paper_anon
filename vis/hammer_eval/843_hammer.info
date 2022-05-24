@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Category/HomFunctors.thy
-lemma (in into_set) homf_preserves_arrows: "Hom(A,_)\<^bsub>\<a>\<^esub> : Ar \<rightarrow> ar Set"

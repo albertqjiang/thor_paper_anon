@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Flyspeck-Tame/PlaneProps.thy
-lemma finalVertexI: "\<lbrakk> inv g; final g; v \<in> \<V> g \<rbrakk> \<Longrightarrow> finalVertex g v"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/FeatherweightJava/FJAux.thy
-lemma subtyping_append: assumes "CT \<turnstile>+ Cs <: Ds" and "CT \<turnstile> C <: D" shows "CT \<turnstile>+ (Cs@[C]) <: (Ds@[D])"

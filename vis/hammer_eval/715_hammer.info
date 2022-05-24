@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Berlekamp_Zassenhaus/Missing_Multiset2.thy
-lemma mset_set_id[simp]: assumes "is_mset_set X" shows "mset_set (set_mset X) = X"

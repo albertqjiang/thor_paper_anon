@@ -160,7 +160,6 @@ class InteractiveTransformer:
         self,
         checkpoint_dir,
         batch_size,
-        # input_init_token, input_end_token,
         output_end_token,
         return_logits=False,
         step_to_load=None,
@@ -168,8 +167,6 @@ class InteractiveTransformer:
     ):
         self.checkpoint_dir = checkpoint_dir
         self.batch_size = batch_size
-        # self.input_init_token = input_init_token
-        # self.input_end_token = input_end_token
         self.output_end_token = output_end_token
         self.sampler = sampler
         self.return_logits = return_logits
@@ -196,7 +193,6 @@ class InteractiveTransformer:
         if len(input_str) > input_max_len:
             input_str = input_str[:input_max_len]
         outputs = self._model.predict(
-            # wrap_input(input_str, self.input_init_token, self.input_end_token),
             input_str,
             gen_length,
             sampler_options,

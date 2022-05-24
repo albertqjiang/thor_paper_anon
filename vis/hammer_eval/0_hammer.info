@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Subresultants/Subresultant_Gcd.thy
-theorem gcd_impl[simp]: "gcd_impl = gcd"

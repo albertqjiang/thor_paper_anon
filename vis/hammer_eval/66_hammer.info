@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Differential_Dynamic_Logic/Denotational_Semantics.thy
-lemma agree_UNIV_snd:"\<And>\<nu> \<omega>. Vagree \<nu> \<omega> (Inr ` UNIV) \<Longrightarrow> (snd \<nu>) = (snd \<omega>)"

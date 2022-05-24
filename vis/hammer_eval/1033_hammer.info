@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/List-Infinite/ListInf/List2.thy
-lemma set_sublist_list_if_eq_set_sublist: "set (sublist_list_if xs ys) = set (nths xs (set ys))"

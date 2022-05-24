@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Collections/Examples/ICF/Exploration.thy
-theorem dfs_while_algo: assumes finite[simp, intro!]: "finite (R\<^sup>*``\<Sigma>i)" shows "while_algo (dfs_algo \<Sigma>i R)"

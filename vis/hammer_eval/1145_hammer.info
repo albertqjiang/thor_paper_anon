@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Resolution_FOL/Resolution.thy
-lemma comp_exi2: "\<exists>l. l' = l\<^sup>c"

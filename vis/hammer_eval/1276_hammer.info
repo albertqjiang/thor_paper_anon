@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/SIFPL/VDM_OBJ.thy
-lemma VDM_Sound_n: "G \<rhd> c: A \<Longrightarrow> (\<forall> n. G \<Turnstile>\<^sub>n c:A)"

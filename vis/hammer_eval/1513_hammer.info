@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Extended_Finite_State_Machines/EFSM.thy
-lemma no_outgoing_transitions: "ffilter (\<lambda>((s', _), _). s = s') e = {||} \<Longrightarrow> possible_steps e s r l i = {||}"

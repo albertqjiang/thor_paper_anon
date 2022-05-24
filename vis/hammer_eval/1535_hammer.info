@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Jacobson_Basic_Algebra/Group_Theory.thy
-theorem inverse_monoid_isomorphism: "monoid_isomorphism (restrict (inv_into M \<eta>) M') M' (\<cdot>') \<one>' M (\<cdot>) \<one>"

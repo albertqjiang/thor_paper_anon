@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Poincare_Bendixson/Analysis_Misc.thy
-lemma inner_nth_eucl: "x \<bullet> y = (\<Sum>i<DIM('a). x $\<^sub>e i * y $\<^sub>e i)" for x y::"'a::executable_euclidean_space"

@@ -1,1 +1,0 @@
-{"proved": true, "proof_script": "lemma \"case_prod match_pn (M 64)\"\nby eval", "proof_length": 1, "agent_info": {"prediction_time": 1.8951735496520996, "isabelle_time": 2.1278581619262695, "problem_loading_time": 5.245861530303955, "proof_length": 1, "successful_proof": "lemma \"case_prod match_pn (M 64)\"\nby eval", "result": "proved"}}

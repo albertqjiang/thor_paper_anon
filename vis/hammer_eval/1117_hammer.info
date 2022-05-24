@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Stable_Matching/Contracts.thy
-lemma CH_XH_largest: shows "CH XH_largest = X"

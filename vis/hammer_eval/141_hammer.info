@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/HOL-CSP/Process.thy
-lemma is_process2: "is_process P \<Longrightarrow> \<forall> s X. (s,X) \<in> FAILURES P \<longrightarrow> front_tickFree s "

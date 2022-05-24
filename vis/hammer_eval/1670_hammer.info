@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Free-Boolean-Algebra/Free_Boolean_Algebra.thy
-lemma Rep_formula_top: "Rep_formula \<top> = UNIV"

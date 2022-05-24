@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/HOL-CSP/Sync.thy
-lemma chain_Sync1: "chain Y \<Longrightarrow> chain (\<lambda>i. Y i \<lbrakk> A \<rbrakk> S)"

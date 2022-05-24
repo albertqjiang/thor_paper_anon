@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/LTL/Disjunctive_Normal_Form.thy
-lemma fold_graph_finite: assumes "fold_graph f z A y" shows "finite A"

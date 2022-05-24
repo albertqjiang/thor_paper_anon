@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Monomorphic_Monad/Monomorphic_Monad.thy
-lemma monad_writer_writerT [locale_witness]: "monad_writer return_writer bind_writer tell_writer"

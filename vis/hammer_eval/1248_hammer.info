@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Network_Security_Policy_Verification/Security_Invariants/SINVAR_DomainHierarchyNG.thy
-lemma "(''TUM''--Leaf) \<le> Leaf"

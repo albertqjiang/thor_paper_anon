@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/MFOTL_Monitor/Interval.thy
-lemma subtract_too_much: "i > (case right I of \<infinity> \<Rightarrow> left I | enat n \<Rightarrow> n) \<Longrightarrow> subtract i I = subtract (case right I of \<infinity> \<Rightarrow> left I | enat n \<Rightarrow> n) I"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Dirichlet_Series/Dirichlet_Series.thy
-lemma fds_deriv_of_int [simp]: "fds_deriv (of_int n) = 0"

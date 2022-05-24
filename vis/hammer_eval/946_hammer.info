@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/QHLProver/Partial_State.thy
-lemma encode1_lt [simp]: assumes "i < d" shows "encode1 i < d1"

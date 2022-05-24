@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Word_Lib/Word_Lemmas.thy
-lemma ucast_up_eq: "\<lbrakk> ucast x = (ucast y::'b::len word); LENGTH('a) \<le> LENGTH ('b) \<rbrakk> \<Longrightarrow> ucast x = (ucast y::'a::len word)"

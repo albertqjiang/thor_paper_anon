@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Coinductive_Languages/Coinductive_Language.thy
-theorem Times_OneL[simp]: "Times One r = r"

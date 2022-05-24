@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Polynomials/MPoly_PM.thy
-lemma keys_restrict_indets_pp: "keys (restrict_indets_pp t) = the ` (keys t - {None})"

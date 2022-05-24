@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Binding_Syntax_Theory/Well_Sorted_Terms.thy
-lemma psubstEnv_preserves_wls[simp]: assumes "wlsEnv rho" and "wlsEnv rho'" shows "wlsEnv (rho &[rho'])"

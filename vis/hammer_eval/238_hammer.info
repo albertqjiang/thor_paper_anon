@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Category3/Subcategory.thy
-lemma is_embedding_functor: shows "embedding_functor S.comp C S.map"

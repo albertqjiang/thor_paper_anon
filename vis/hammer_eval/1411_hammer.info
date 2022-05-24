@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Key_Agreement_Strong_Adversaries/Implem_lemmas.thy
-lemma extractableI: "implem (Chan x A B M) \<in> I \<Longrightarrow> x = insec \<or> x = auth \<or> ((x = confid \<or> x = secure) \<and> (A, B) \<in> broken K) \<Longrightarrow> implem (Chan x A B M) \<in> extractable K I"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Pell/Pell.thy
-lemma pell_valuation_fund_sol_ge_2: "pell_valuation fund_sol \<ge> 2"

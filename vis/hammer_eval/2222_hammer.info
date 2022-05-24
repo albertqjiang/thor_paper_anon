@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Probabilistic_System_Zoo/Bool_Bounded_Set.thy
-lemma bempty_neq_bsingleton[simp]: "bempty \<noteq> bsingleton x" "bsingleton x \<noteq> bempty"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Aggregation_Algebras/Linear_Aggregation_Algebras.thy
-lemma t_min: "x + y \<le> min x y"

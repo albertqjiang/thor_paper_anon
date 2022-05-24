@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Auto2_Imperative_HOL/Imperative/RBTree_Impl.thy
-lemma balance_to_fun [hoare_triple]: "<btree (rbt.Node l B k v r) p> btree_balance p <btree (balance l k v r)>"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Network_Security_Policy_Verification/Lib/FiniteListGraph.thy
-lemma delete_edge_set_edges2: "set (edgesL (delete_edge v v' G)) = set (edgesL G) - {(v,v')}"

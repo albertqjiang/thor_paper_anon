@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Collections/Lib/Diff_Array.thy
-lemma array_get_new_array [simp]: "i < n \<Longrightarrow> array_get (new_array a n) i = a"

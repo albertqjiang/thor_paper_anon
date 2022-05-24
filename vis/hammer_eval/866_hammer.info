@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Formal_SSA/WhileGraphSSA.thy
-lemma finite_Defs [simp, intro!]: "finite (Defs c n)"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Stable_Matching/Bossiness.thy
-lemma Bossy_CH_range: assumes "X \<subseteq> Bossy.CH X'" shows "X \<subseteq> set [d1h1, d1h3, d2h1, d2h3, d3h1, d3h3]"

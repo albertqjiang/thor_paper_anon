@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/AWN/AWN_Cterms.thy
-lemma dtermsl_choice_disj [simp]: "p \<in> dtermsl (p1 \<oplus> p2) = (p \<in> dtermsl p1 \<or> p \<in> dtermsl p2)"

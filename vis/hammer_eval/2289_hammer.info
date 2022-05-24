@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/QHLProver/Grover.thy
-lemma psi_lR_is_beta: "psi_l R = \<beta>"

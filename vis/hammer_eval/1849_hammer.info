@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Abstract-Hoare-Logics/Proc/PHoare.thy
-lemma MGT_CALL: "{} \<turnstile> MGT CALL"

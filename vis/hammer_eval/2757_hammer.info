@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Native_Word/More_Bits_Int.thy
-lemma bin_sign_mask [simp]: "bin_sign (bin_mask n) = 0"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Buildings/Chamber.thy
-lemma maxsimp_in_opp_half_apartment: assumes "SimplicialComplex.maxsimp Y C" shows "C \<in> \<C>-f\<turnstile>\<C>"

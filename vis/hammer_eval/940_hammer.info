@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/JinjaThreads/Common/ConformThreaded.thy
-lemma thread_conf_hext: "\<lbrakk> thread_conf P ts h; h \<unlhd> h' \<rbrakk> \<Longrightarrow> thread_conf P ts h'"

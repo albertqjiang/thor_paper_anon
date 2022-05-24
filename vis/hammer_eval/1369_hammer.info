@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Markov_Models/ex/Crowds_Protocol.thy
-lemma next_prob_from_End[simp]: "next_prob End s = 0 \<longleftrightarrow> s \<noteq> End"

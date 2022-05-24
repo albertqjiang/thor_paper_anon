@@ -1,1 +1,0 @@
-{"proved": true, "proof_script": "lemma mtf20[simp]: \"mtf2 0 x xs = xs\"\nby(simp add: mtf2_def)", "proof_length": 1, "agent_info": {"prediction_time": 1.8421456813812256, "isabelle_time": 0.07886385917663574, "problem_loading_time": 1.4861047267913818, "proof_length": 1, "successful_proof": "lemma mtf20[simp]: \"mtf2 0 x xs = xs\"\nby(simp add: mtf2_def)", "result": "proved"}}

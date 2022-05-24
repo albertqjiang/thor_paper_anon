@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Word_Lib/Word_Lemmas.thy
-lemma shiftr1_0_or_1:"(x::('a::len) word) >> 1 = 0 \<Longrightarrow> x = 0 \<or> x = 1"

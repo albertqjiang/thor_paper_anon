@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Universal_Turing_Machine/UF.thy
-lemma newrght_lemma: "rec_exec rec_newrght [p, r, a] = newrght p r a"

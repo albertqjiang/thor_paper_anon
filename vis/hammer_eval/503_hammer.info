@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Probabilistic_Noninterference/Compositionality.thy
-lemma inj_on_shift: "inj_on (shift cl n) K"

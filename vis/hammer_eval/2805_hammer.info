@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Allen_Calculus/disjoint_relations.thy
-lemma eei[simp]:"e^-1 = e"

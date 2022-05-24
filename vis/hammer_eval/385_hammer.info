@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Resolution_FOL/Tree.thy
-lemma cutoff_branch': assumes "anybranch T (\<lambda>b. red(ds@b))" shows "anybranch (cutoff red ds T) (\<lambda>b. red(ds@b))"

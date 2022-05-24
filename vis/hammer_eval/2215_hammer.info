@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Extended_Finite_State_Machines/FSet_Utils.thy
-lemma fimage_size_le: "\<And>f s. size s \<le> n \<Longrightarrow> size (fimage f s) \<le> n"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/QHLProver/Grover.thy
-lemma P'_add_Q_le_one: "P' + Q \<le>\<^sub>L 1\<^sub>m d"

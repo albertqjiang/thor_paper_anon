@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Hoare_Time/SepLog_Hoare.thy
-lemma wp3_is_pre: "\<turnstile>\<^sub>3 {wp\<^sub>3 c Q} c { Q}"

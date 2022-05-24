@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Landau_Symbols/Landau_Library.thy
-lemma powr_negD: "(a::real) powr b \<le> 0 \<Longrightarrow> a = 0"

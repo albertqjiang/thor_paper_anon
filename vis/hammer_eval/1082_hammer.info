@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Shadow_SC_DOM/monads/ShadowRootMonad.thy
-lemma get_M_Mshadow_root_preserved8 [simp]: "h \<turnstile> put_M\<^sub>S\<^sub>h\<^sub>a\<^sub>d\<^sub>o\<^sub>w\<^sub>R\<^sub>o\<^sub>o\<^sub>t shadow_root_ptr setter v \<rightarrow>\<^sub>h h' \<Longrightarrow> preserved (get_M\<^sub>C\<^sub>h\<^sub>a\<^sub>r\<^sub>a\<^sub>c\<^sub>t\<^sub>e\<^sub>r\<^sub>D\<^sub>a\<^sub>t\<^sub>a character_data_ptr getter) h h'"

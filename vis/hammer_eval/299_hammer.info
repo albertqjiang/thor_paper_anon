@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Budan_Fourier/BF_Misc.thy
-lemma fcompose_0 [simp]: "fcompose 0 q r = 0"

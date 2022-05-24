@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/BDD/General.thy
-lemma ind_in_higher_take: "\<And>n k. \<lbrakk>n < k; n < length xs\<rbrakk> \<Longrightarrow> xs ! n \<in> set (take k xs)"

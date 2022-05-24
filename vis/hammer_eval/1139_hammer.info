@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Stateful_Protocol_Composition_and_Typing/More_Unification.thy
-lemma subst_img_alt_def: "subst_range s = {t. \<exists>v. s v = t \<and> t \<noteq> Var v}"

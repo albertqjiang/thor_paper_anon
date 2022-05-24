@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/CakeML_Codegen/Utils/Compiler_Utils.thy
-lemma fgroup_byE[elim]: assumes "c |\<in>| cs" "(b, cs) |\<in>| fgroup_by f as" obtains a where "a |\<in>| as" "f a = (b, c)"

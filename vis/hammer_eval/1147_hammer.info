@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Subresultants/Subresultant.thy
-lemma resultant_smult_left: assumes "(c :: 'a :: idom) \<noteq> 0" shows "resultant (smult c f) g = c ^ degree g * resultant f g"

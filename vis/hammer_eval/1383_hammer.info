@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/BNF_CC/Axiomatised_BNF_CC.thy
-lemma map_G_id: "map_G id id id id id id x = x"

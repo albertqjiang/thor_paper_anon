@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Gromov_Hyperbolicity/Eexp_Eln.thy
-lemma eln_mono: "mono eln"

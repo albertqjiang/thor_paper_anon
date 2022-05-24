@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Landau_Symbols/Group_Sort.thy
-lemma sorted_all_equal: "(\<And>x. x \<in> set xs \<Longrightarrow> x = y) \<Longrightarrow> sorted xs"

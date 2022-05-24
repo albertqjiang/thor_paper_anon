@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/JinjaThreads/Compiler/J0.thy
-lemma extTA2J0_\<epsilon>: "extTA2J0 P \<epsilon> = \<epsilon>"

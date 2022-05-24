@@ -1,1 +1,0 @@
-{"proved": true, "proof_script": "lemma cong_let: \"(let x = y in f x) = f y\"\nby auto", "proof_length": 1, "agent_info": {"prediction_time": 1.9347574710845947, "isabelle_time": 0.08040904998779297, "problem_loading_time": 1.7053070068359375, "proof_length": 1, "successful_proof": "lemma cong_let: \"(let x = y in f x) = f y\"\nby auto", "result": "proved"}}

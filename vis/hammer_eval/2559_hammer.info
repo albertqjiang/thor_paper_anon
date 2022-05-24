@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Landau_Symbols/Group_Sort.thy
-lemma distinct_group_sort: "distinct (map f (group_sort xs))"

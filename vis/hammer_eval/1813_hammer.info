@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Jordan_Normal_Form/Missing_VectorSpace.thy
-lemma inj_imp_Ker0: assumes "inj_on T (carrier V)" shows "carrier (V.vs kerT) = {\<zero>\<^bsub>V\<^esub>}"

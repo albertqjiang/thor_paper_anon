@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/List-Infinite/ListInf/List2.thy
-lemma nths_take_eq: " \<lbrakk> finite I; Max I < n \<rbrakk> \<Longrightarrow> nths (xs \<down> n) I = nths xs I"

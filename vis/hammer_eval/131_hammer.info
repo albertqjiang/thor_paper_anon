@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/PLM/TAO_9_PLM.thy
-lemma ActualConjI[PLM_intro]: "[\<^bold>\<A>\<phi> \<^bold>& \<^bold>\<A>\<psi> in v] \<Longrightarrow> [\<^bold>\<A>(\<phi> \<^bold>& \<psi>) in v]"

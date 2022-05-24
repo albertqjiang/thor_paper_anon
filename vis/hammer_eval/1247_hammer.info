@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Berlekamp_Zassenhaus/Berlekamp_Hensel.thy
-lemma unique_monic_hensel_factorization: assumes ufact: "unique_factorization_m C (1,Fs)" and C: "monic C" "square_free_m C" and n: "n \<noteq> 0" shows "\<exists> Gs. poly_mod.unique_factorization_m (p^n) C (1, Gs)"

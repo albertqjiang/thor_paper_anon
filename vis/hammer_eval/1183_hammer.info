@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/MFOTL_Monitor/Examples.thy
-lemma "mmonitorable \<phi>\<^sub>e\<^sub>x"

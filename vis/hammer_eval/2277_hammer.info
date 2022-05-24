@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/WebAssembly/Wasm_Properties_Aux.thy
-lemma typeof_f64: assumes "typeof v = T_f64" shows "\<exists>c. v = ConstFloat64 c"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Universal_Turing_Machine/Turing.thy
-lemma step_red [simp]: shows "steps c p (Suc n) = step (steps c p n) p"

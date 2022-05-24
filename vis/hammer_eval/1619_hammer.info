@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/HOLCF-Prelude/Data_List.thy
-lemma null_set_empty_conv: "xs \<noteq> \<bottom> \<Longrightarrow> null\<cdot>xs = TT \<longleftrightarrow> set xs = {}"

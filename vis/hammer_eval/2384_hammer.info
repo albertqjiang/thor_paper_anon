@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Budan_Fourier/BF_Misc.thy
-lemma of_real_poly_eq_0_iff [simp]: "map_poly of_real p = 0 \<longleftrightarrow> p = 0"

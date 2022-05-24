@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/VectorSpace/MonoidSums.thy
-lemma foldSet_not_depend: fixes A E assumes h1: "D\<subseteq>E" shows "foldSetD D f e \<subseteq>foldSetD E f e"

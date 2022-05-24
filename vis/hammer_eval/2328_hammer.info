@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Stateful_Protocol_Composition_and_Typing/Lazy_Intruder.thy
-lemma LI_preserves_trm_wf: assumes "(S,\<theta>) \<leadsto>\<^sup>* (S',\<theta>')" "wf\<^sub>t\<^sub>r\<^sub>m\<^sub>s (trms\<^sub>s\<^sub>t S)" shows "wf\<^sub>t\<^sub>r\<^sub>m\<^sub>s (trms\<^sub>s\<^sub>t S')"

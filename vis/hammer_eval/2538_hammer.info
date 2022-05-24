@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Binding_Syntax_Theory/QuasiTerms_PickFresh_Alpha.thy
-lemma alpha_qVar_iff: "X #= qVar xs' x' \<longleftrightarrow> X = qVar xs' x'"

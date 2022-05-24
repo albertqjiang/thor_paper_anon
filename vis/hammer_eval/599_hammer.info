@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/LambdaAuth/Semantics.thy
-lemma smallstepV_ps_append: "\<lless> \<pi>, eV \<ggreater> V\<rightarrow> \<lless> \<pi>', eV' \<ggreater> \<longleftrightarrow> \<lless> \<pi> @ X, eV \<ggreater> V\<rightarrow> \<lless> \<pi>' @ X, eV' \<ggreater>" (is "?L \<longleftrightarrow> ?R")

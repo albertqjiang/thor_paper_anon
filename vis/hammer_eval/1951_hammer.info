@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Polynomials/MPoly_Type_Class_Ordered.thy
-lemma monomial_plus_not_0: assumes "c \<noteq> 0" and "lt p \<prec>\<^sub>t v" shows "monomial c v + p \<noteq> 0"

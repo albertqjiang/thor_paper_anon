@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Groebner_Bases/Syzygy.thy
-lemma pm_of_idx_pm_minus: "pm_of_idx_pm xs (f - g) = pm_of_idx_pm xs f - pm_of_idx_pm xs g"

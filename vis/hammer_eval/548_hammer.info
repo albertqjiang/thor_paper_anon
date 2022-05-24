@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Flyspeck-Tame/GraphProps.thy
-lemma vertices_conv_Union_edges: "\<V>(f::face) = (\<Union>(a,b)\<in>\<E> f. {a})"

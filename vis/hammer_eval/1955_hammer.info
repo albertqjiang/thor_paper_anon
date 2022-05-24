@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Abstract-Rewriting/Seq.thy
-lemma inf_concat_simple_surj: assumes "j < f i" shows "\<exists> k. inf_concat_simple f k = (i,j)"

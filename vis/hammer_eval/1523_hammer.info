@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Simpl/Semantic.thy
-lemma noFault_def': "\<Gamma>\<turnstile>\<langle>c,s\<rangle> \<Rightarrow>\<notin>{Fault f} = (\<not>\<Gamma>\<turnstile>\<langle>c,s\<rangle> \<Rightarrow> Fault f)"

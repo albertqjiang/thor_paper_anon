@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Relational_Paths/More_Relation_Algebra.thy
-lemma star_star_plus: "x\<^sup>\<star> + y\<^sup>\<star> = x\<^sup>+ + y\<^sup>\<star>"

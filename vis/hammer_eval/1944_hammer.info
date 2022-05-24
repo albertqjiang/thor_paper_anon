@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/UTP/utp/utp_var.thy
-lemma in_out_indep [simp]: "in_var x \<bowtie> out_var y"

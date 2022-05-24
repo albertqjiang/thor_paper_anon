@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Propositional_Proof_Systems/HC_Compl_Consistency.thy
-lemma nand_sim: "\<Gamma> \<union> AX10 \<turnstile>\<^sub>H \<^bold>\<not> (F \<^bold>\<and> G) \<Longrightarrow> \<Gamma> \<union> AX10 \<turnstile>\<^sub>H \<^bold>\<not> F \<^bold>\<or> \<^bold>\<not> G"

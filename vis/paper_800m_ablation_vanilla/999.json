@@ -1,1 +1,0 @@
-{"proved": true, "proof_script": "lemma inter_same_diff[simp]: \"A\\<inter>(A-S) = A-S\"\nby auto", "proof_length": 1, "agent_info": {"prediction_time": 1.9181149005889893, "isabelle_time": 0.04198503494262695, "problem_loading_time": 1.5219371318817139, "proof_length": 1, "successful_proof": "lemma inter_same_diff[simp]: \"A\\<inter>(A-S) = A-S\"\nby auto", "result": "proved"}}

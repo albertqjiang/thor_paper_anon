@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Density_Compiler/PDF_Semantics.thy
-lemma measurable_bernoulli[measurable]: "bernoulli \<in> measurable REAL (subprob_algebra BOOL)"

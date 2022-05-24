@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/UPF/ElementaryPolicies.thy
-lemma "A\<^sub>f f \<Oplus> Map.empty = A\<^sub>f f"

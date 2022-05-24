@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Menger/Graph.thy
-lemma walk_edges_decomp': "edges_of_walk (xs @ v # w # xs') = edges_of_walk (xs @ [v]) \<union> {(v,w)} \<union> edges_of_walk (w # xs')"

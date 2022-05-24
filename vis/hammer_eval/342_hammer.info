@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Random_BSTs/Random_BSTs.thy
-lemma eheight_rbst: assumes "finite A" shows "eheight_rbst (card A) = map_pmf eheight (random_bst A)"

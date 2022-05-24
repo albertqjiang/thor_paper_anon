@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Gromov_Hyperbolicity/Gromov_Boundary.thy
-lemma Gromov_boundary_extended_product_PInf [simp]: "extended_Gromov_product_at e x y = \<infinity> \<longleftrightarrow> (x \<in> Gromov_boundary \<and> y = x)"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/JinjaThreads/Framework/FWBisimDeadlock.thy
-lemma mbisim_deadlocked_preserve1: assumes mbisim: "s1 \<approx>m s2" and dead: "t \<in> r1.deadlocked s1" shows "t \<in> r2.deadlocked s2"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Lambda_Free_EPO/Chop.thy
-lemma chop_subst_Hd: assumes "is_App s" assumes "is_Hd (subst \<rho> (Hd (head s)))" shows "chop (subst \<rho> s) = subst \<rho> (chop s)"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Circus/Denotational_Semantics.thy
-lemma Schema_is_action: "(R ((\<lambda>(A, A'). (Pre sc) (more A)) \<turnstile> (\<lambda>(A, A'). sc (more A, more A') & \<not>wait A' & tr A = tr A'))) \<in> {p. is_CSP_process p}"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Stable_Matching/Choice_Functions.thy
-lemma subset: assumes "linear_cf Y \<subseteq> X" assumes "X \<subseteq> Y" shows "linear_cf Y = linear_cf X"

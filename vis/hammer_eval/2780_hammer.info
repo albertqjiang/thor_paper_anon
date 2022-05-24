@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/PCF/Logical_Relations.thy
-lemma delta_pos_sol: "delta_pos = F (delta_neg, delta_pos)"

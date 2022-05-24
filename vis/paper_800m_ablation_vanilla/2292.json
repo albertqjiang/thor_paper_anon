@@ -1,1 +1,0 @@
-{"proved": true, "proof_script": "lemma \"encode C = [True, True]\"\nby code_simp", "proof_length": 1, "agent_info": {"prediction_time": 1.8066914081573486, "isabelle_time": 0.1418914794921875, "problem_loading_time": 0.6102173328399658, "proof_length": 1, "successful_proof": "lemma \"encode C = [True, True]\"\nby code_simp", "result": "proved"}}

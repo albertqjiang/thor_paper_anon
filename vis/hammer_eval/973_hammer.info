@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/PLM/TAO_9_PLM.thy
-lemma cont_nec_fact1_2[PLM]: "[(WeaklyContingent F \<^bold>& \<^bold>\<not>(WeaklyContingent G)) \<^bold>\<rightarrow> (F \<^bold>\<noteq> G) in v]"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/QHLProver/Grover.thy
-lemma psi_l_dim: "psi_l l \<in> carrier_vec N"

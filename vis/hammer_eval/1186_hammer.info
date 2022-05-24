@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Tarskis_Geometry/Hyperbolic_Tarski.thy
-lemma east_west_tangents_distinct: "polar east \<noteq> polar west"

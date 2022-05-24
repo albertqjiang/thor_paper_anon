@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Program-Conflict-Analysis/Normalization.thy
-lemma cil_\<alpha>n_cons2: "\<lbrakk>w\<in>wa\<otimes>\<^bsub>\<alpha>n fg\<^esub>wb; fst (\<alpha>n fg e) \<inter> mon_ww fg wa = {}\<rbrakk> \<Longrightarrow> e#w \<in> wa \<otimes>\<^bsub>\<alpha>n fg\<^esub> e#wb"

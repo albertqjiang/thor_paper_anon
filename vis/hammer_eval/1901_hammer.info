@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Bernoulli/Bernoulli_FPS.thy
-lemma fps_XD'_fps_const [simp]: "fps_XD' a (fps_const b) = 0"

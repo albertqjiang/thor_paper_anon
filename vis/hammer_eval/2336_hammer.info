@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Bernoulli/Bernoulli.thy
-lemma bernpoly_altdef: "bernpoly n = (\<lambda>x. \<Sum>k\<le>n. of_nat (n choose k) * of_real (bernoulli (n - k)) * x ^ k)"

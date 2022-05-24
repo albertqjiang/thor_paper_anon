@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Optics/Lens_Symmetric.thy
-lemma psym_lens_compl [simp]: "psym_lens a \<Longrightarrow> psym_lens (-\<^sub>L a)"

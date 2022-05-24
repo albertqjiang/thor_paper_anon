@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/ArrowImpossibilityGS/Thys/Arrow_Utility.thy
-lemma [simp]: "a \<noteq> b \<Longrightarrow> \<not> P p a < mkbot (P p) b b"

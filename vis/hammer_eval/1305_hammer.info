@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/LLL_Basis_Reduction/Missing_Lemmas.thy
-lemma rev_upt_rec: "[i>..j] = (if i>j then [i>..Suc j] @ [j] else [])"

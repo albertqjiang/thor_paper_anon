@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Cayley_Hamilton/Square_Matrix.thy
-lemma smult_zero[simp]: fixes a :: "'a::ring_1" shows "a *\<^sub>S 0 = 0"

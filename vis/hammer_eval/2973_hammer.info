@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Free-Groups/Generators.thy
-lemma (in monoid) nat_pow_mult1l: assumes x: "x \<in> carrier G" shows "x \<otimes> x [^] n = x [^] Suc n"

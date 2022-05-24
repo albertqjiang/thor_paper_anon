@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Graph_Theory/Arc_Walk.thy
-lemma (in pre_digraph) awalk_verts_conv': assumes "cas u p v" shows "awalk_verts u p = (if p = [] then [u] else tail G (hd p) # map (head G) p)"

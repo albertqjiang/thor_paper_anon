@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Sort_Encodings/Mcalc.thy
-lemma transE[simp]: "transE \<xi> x = proj (tpOfV x) (\<xi> x)"

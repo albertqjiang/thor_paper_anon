@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Group-Ring-Module/Algebra1.thy
-lemma subset_self:"A \<subseteq> A"

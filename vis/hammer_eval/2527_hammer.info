@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/HRB-Slicing/Proc/PCFG.thy
-lemma Proc_CFG_Exit_edge: obtains l et where "prog \<turnstile> Label l -IEdge et\<rightarrow>\<^sub>p Exit" and "l \<le> #:prog"

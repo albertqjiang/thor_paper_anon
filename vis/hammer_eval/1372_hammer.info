@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Lowe_Ontological_Argument/QML.thy
-lemma K: "\<lfloor>(\<^bold>\<box>(\<phi> \<^bold>\<rightarrow> \<psi>)) \<^bold>\<rightarrow> (\<^bold>\<box>\<phi> \<^bold>\<rightarrow> \<^bold>\<box>\<psi>)\<rfloor>"

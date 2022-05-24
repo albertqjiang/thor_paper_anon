@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Universal_Turing_Machine/UF.thy
-lemma fac_dummy: "rec_exec rec_dummyfac [x, y] = y !"

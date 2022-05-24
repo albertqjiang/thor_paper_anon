@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Nested_Multisets_Ordinals/Multiset_More.thy
-lemma mem_Times_mset_iff: "x \<in># A \<times># B \<longleftrightarrow> fst x \<in># A \<and> snd x \<in># B"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Neumann_Morgenstern_Utility/Neumann_Morgenstern_Utility_Theorem.thy
-lemma vNM_utilty_implies_continuity: assumes fnt: "finite outcomes" and "outcomes \<noteq> {}" assumes "\<exists>u. ordinal_utility (lotteries_on outcomes) \<R> (\<lambda>x. measure_pmf.expectation x u)" shows "continuous_vnm (lotteries_on outcomes) \<R>"

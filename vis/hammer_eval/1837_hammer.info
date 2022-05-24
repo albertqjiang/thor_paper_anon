@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Nash_Williams/Nash_Williams.thy
-lemma decides_subset: "\<lbrakk>decides \<F> S M; N \<subseteq> M\<rbrakk> \<Longrightarrow> decides \<F> S N"

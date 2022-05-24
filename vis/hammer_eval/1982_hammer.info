@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/DiskPaxos/DiskPaxos_Inv4.thy
-lemma HFail_HInv4b_p: "HFail s s' p \<Longrightarrow> HInv4b s' p"

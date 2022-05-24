@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Hybrid_Multi_Lane_Spatial_Logic/NatInt.thy
-lemma leq_max_sup:"(m::nat) \<le> n \<longrightarrow> Max {m..n} = n"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Noninterference_Ipurge_Unwinding/IpurgeUnwinding.thy
-lemma traces_failures: "xs \<in> traces P \<Longrightarrow> (xs, {}) \<in> failures P"

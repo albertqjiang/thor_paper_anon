@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/VolpanoSmith/secTypes.thy
-lemma typeableFreevars: assumes "\<Gamma> \<turnstile> e : T" shows "fv e \<subseteq> dom \<Gamma>"

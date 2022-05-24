@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Graph_Theory/Funpow.thy
-lemma iterate_length[simp]: "length (iterate m n f x) = n - m"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Valuation/Valuation1.thy
-lemma (in Corps) Vr_integral:"valuation K v \<Longrightarrow> Idomain (Vr K v)"

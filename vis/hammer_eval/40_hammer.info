@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Automatic_Refinement/Lib/Misc.thy
-lemma set_quicksort_by_rel [simp]: "set (quicksort_by_rel R sl xs) = set (xs @ sl)"

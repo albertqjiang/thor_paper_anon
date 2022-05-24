@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Sort_Encodings/Preliminaries.thy
-lemma part12: assumes "infinite V" shows "part12_pred V (part12 V)"

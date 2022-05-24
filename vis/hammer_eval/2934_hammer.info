@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/JinjaThreads/BV/BVConform.thy
-lemma confTs_Err [iff]: "P,h \<turnstile> replicate n v [:\<le>\<^sub>\<top>] replicate n Err"

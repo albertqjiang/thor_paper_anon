@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Call_Arity/CoCallGraph.thy
-lemma ccField_ccSquare[simp]: "ccField (S\<^sup>2) = S"

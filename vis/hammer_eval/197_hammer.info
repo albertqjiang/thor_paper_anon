@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Diophantine_Eqns_Lin_Hom/List_Vector.thy
-lemma dotprod_Cons [simp]: "(x # xs) \<bullet> (y # ys) = x * y + xs \<bullet> ys"

@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Polynomials/Term_Order.thy
-lemma rep_zero_iff: "(rep_nat x = 0) \<longleftrightarrow> (x = 0)"

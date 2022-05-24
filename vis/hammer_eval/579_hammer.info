@@ -1,2 +1,0 @@
-/home/qj213/afp-2021-10-22/thys/Mersenne_Primes/Lucas_Lehmer.thy
-lemma lucas_lehmer_mult_neutral [simp]: assumes "fst x < m" "snd x < m" shows "lucas_lehmer_mult m (Suc 0, 0) x = x" and "lucas_lehmer_mult m x (Suc 0, 0) = x"
