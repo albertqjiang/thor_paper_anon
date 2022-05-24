@@ -496,7 +496,7 @@ def parse_args():
         default=None,
     )
     parser.add_argument(
-        "--gcp-bucket", "-gb", type=str, default="n2formal-public-data-europe"
+        "--gcp-bucket", "-gb", type=str, default="<GCP_BUCKET>"
     )
     parser.add_argument("--save-path", "-sp", type=str, default="eval_results")
     parser.add_argument("--experiment-name", "-en", type=str)
@@ -578,9 +578,6 @@ def evaluate_on_universal_test_theorems(
         try:
             problem_config = json.load(open(file_path))
             test_theory_file, test_lemma = problem_config[0]
-            test_theory_file = test_theory_file.replace(
-                "/home/ywu/afp-2021-02-11", f"{pathlib.Path.home()}/afp-2021-10-22"
-            )
             (
                 proved,
                 proof_script,
