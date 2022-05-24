@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Password_Authentication_Protocol/Propaedeutics.thy
+lemma analz_crypt_in_2: "Key (invK K) \<in> analz H \<Longrightarrow> insert (Crypt K X) (analz (insert X H)) \<subseteq> analz (insert (Crypt K X) H)"

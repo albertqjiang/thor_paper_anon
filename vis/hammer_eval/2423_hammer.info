@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Topology/Topology.thy
+lemma (in carrier) carrierE [elim]: "\<lbrakk> x \<in> carrier; \<And>t. \<lbrakk> t open; x \<in> t \<rbrakk> \<Longrightarrow> R \<rbrakk> \<Longrightarrow> R"

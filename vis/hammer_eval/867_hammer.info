@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Name_Carrying_Type_Inference/SimplyTyped.thy
+lemma infer_pairE: assumes "infer \<Gamma> (Pair A B) = Some \<tau>" shows "\<exists>T S. \<tau> = TPair T S \<and> infer \<Gamma> A = Some T \<and> infer \<Gamma> B = Some S"

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Regular-Sets/Regexp_Constructions.thy
+lemma Nil_in_Suffixes_iff [simp]: "[] \<in> Suffixes A \<longleftrightarrow> A \<noteq> {}"

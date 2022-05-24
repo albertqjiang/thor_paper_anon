@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/JiveDataStoreModel/Isabelle_Store/Location.thy
+lemma isArrLenLoc_simps [simp]: "isArrLenLoc (objLoc cf a) = False" "isArrLenLoc (staticLoc f) = False" "isArrLenLoc (arrLenLoc T a) = True" "isArrLenLoc (arrLoc T a i) = False"

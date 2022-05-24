@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Probabilistic_Timed_Automata/library/Lib.thy
+lemma ev_sdropD: assumes "ev P xs" obtains i where "P (sdrop i xs)"

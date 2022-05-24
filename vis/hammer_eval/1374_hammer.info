@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Smooth_Manifolds/Cotangent_Space.thy
+lemma mem_dual_space: "E \<in> dual_space S \<longleftrightarrow> linear_fun_on S E \<and> extensional0 S E"

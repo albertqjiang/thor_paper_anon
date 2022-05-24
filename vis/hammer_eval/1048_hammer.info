@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/UTP/utp/utp_rel_laws.thy
+lemma frame_contract_RID: assumes "vwb_lens x" "P is RID(x)" "x \<bowtie> y" shows "(x;y):[P] = y:[P]"

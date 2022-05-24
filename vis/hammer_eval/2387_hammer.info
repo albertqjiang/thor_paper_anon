@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/HRB-Slicing/StaticInter/CFG.thy
+lemma same_level_path_rev_aux_Append: "\<lbrakk>same_level_path_rev_aux cs as'; same_level_path_rev_aux (upd_rev_cs cs as') as\<rbrakk> \<Longrightarrow> same_level_path_rev_aux cs (as@as')"

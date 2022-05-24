@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Abstract-Hoare-Logics/While/Hoare.thy
+theorem hoare_sound: "\<turnstile> {P}c{Q} \<Longrightarrow> \<Turnstile> {P}c{Q}"

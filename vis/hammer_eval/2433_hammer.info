@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/CakeML_Codegen/Utils/Compiler_Utils.thy
+lemma group_by_sound: "c \<in> cs \<Longrightarrow> (b, cs) \<in> group_by f as \<Longrightarrow> \<exists>a \<in> as. f a = (b, c)"

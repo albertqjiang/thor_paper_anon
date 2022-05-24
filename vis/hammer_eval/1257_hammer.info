@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Statecharts/HA.thy
+lemma HARootStates_Range_ChiPlus2 [simp]: "\<lbrakk> S \<in> States (HARoot A) \<rbrakk> \<Longrightarrow> (x,S) \<notin> (ChiPlus A)"

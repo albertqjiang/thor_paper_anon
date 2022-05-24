@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/FOL-Fitting/FOL_Fitting.thy
+lemma shift_imp_assum: fixes p :: \<open>('a, 'b) form\<close> assumes inf_params: \<open>infinite (UNIV :: 'a set)\<close> and \<open>z \<turnstile> Impl p q\<close> shows \<open>p # z \<turnstile> q\<close>

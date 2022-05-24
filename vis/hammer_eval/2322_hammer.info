@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Sort_Encodings/E.thy
+lemma satA_e[simp]: "U.satA \<xi> at \<longleftrightarrow> F.satA \<xi> at"

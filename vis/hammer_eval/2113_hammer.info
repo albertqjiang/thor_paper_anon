@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Pi_Calculus/Weak_Early_Bisim_Pres.thy
+lemma bangRelSubWeakBisim: shows "bangRel weakBisim \<subseteq> weakBisim"

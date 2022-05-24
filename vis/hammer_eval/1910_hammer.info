@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Password_Authentication_Protocol/Propaedeutics.thy
+lemma items_crypt: "items (insert (Crypt K X) H) = insert (Crypt K X) (items (insert X H))"

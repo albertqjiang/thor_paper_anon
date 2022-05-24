@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Stable_Matching/Contracts.thy
+lemma D2_ALL: shows "(\<forall>d. P d) = (\<forall>d\<in>{D1, D2}. P d)"

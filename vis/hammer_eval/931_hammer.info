@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Relation_Algebra/Relation_Algebra.thy
+lemma modular_2': "y ; x \<cdot> z = (y \<cdot> z ; x\<^sup>\<smile>) ; x \<cdot> z"

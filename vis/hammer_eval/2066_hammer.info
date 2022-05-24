@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Cayley_Hamilton/Square_Matrix.thy
+lemma smult_map_sq_matrix: "(\<And>y. f (x * y) = z * f y) \<Longrightarrow> map_sq_matrix f (x *\<^sub>S A) = z *\<^sub>S map_sq_matrix f A"

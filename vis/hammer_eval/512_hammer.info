@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Quantales/Quantic_Nuclei_Conuclei.thy
+lemma downset_comp_pres: "\<down> ((x::'a::quantale) \<cdot> y) = (\<down> \<circ> Sup) (\<down>x \<cdot> \<down>y)"

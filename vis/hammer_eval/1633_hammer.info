@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/PLM/TAO_9_PLM.thy
+lemma cqt_basic_6[PLM]: "[(\<^bold>\<forall>\<alpha>. (\<^bold>\<forall>\<alpha>. \<phi> \<alpha>)) \<^bold>\<equiv> (\<^bold>\<forall>\<alpha>. \<phi> \<alpha>) in v]"

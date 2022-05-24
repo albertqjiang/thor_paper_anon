@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Ordinal_Partitions/Library_Additions.thy
+lemma enum_0_eq_Inf: fixes N :: "nat set" assumes "infinite N" shows "enum N 0 = Inf N"

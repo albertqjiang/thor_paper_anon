@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/JinjaThreads/BV/BVConform.thy
+lemma correct_state_hext_mono: "\<lbrakk> \<Phi> \<turnstile> t: (xcp, h, frs) \<surd>; h \<unlhd> h'; hconf h' \<rbrakk> \<Longrightarrow> \<Phi> \<turnstile> t: (xcp, h', frs) \<surd>"

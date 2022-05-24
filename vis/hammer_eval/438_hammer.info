@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Formal_SSA/SSA_CFG.thy
+lemma uses_in_allUses[simp]: "v \<in> uses g n \<Longrightarrow> v \<in> allUses g n"

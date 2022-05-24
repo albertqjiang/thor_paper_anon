@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Tarskis_Geometry/Tarski.thy
+theorem th2_5: "a b \<congruent> c d \<Longrightarrow> a b \<congruent> d c"

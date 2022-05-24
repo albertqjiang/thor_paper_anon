@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/PSemigroupsConvolution/Unary_Modalities.thy
+lemma fdia_bmod_comp: "( |R\<rangle> f x) = \<otimes> (\<lambda>x y z. (x,y) \<in> R) f c1 x"

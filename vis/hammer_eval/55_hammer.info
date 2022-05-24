@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/InfPathElimination/SubExt.thy
+lemma (in wf_sub_rel) extends_imp_wf_sub_rel : assumes "extends g subs sub subs'" shows "wf_sub_rel subs'"

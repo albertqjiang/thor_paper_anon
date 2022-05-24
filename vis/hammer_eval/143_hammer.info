@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Free-Groups/FreeGroups.thy
+lemma inv_fg_closure2: "l \<in> lists (UNIV \<times> gens) \<Longrightarrow> inv_fg l \<in> lists (UNIV \<times> gens)"

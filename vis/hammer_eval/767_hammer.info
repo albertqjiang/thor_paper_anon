@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Jordan_Normal_Form/Matrix.thy
+lemma vec_of_list_Cons[simp]: "vec_of_list (a#as) = vCons a (vec_of_list as)"

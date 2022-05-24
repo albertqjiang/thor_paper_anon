@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Discrete_Summation/Discrete_Summation.thy
+lemma \<Sigma>_positive: "j < l \<Longrightarrow> \<Sigma> f j l = sum (f \<circ> of_int) {j..<l}"

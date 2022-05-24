@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/pGCL/Misc.thy
+lemma tminus_nle[simp]: "\<not>b \<le> a \<Longrightarrow> a \<ominus> b = 0"

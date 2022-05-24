@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Polynomial_Interpolation/Ring_Hom.thy
+lemma hom_dvd_1[simp]: "x dvd 1 \<Longrightarrow> hom x dvd 1"

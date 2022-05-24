@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/ShortestPath/ShortestPath.thy
+lemma (in shortest_path_pos_cost) tail_value_check: fixes u :: 'a assumes "s \<in> verts G" shows "\<mu> c s s = ereal 0"

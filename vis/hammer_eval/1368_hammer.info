@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Binding_Syntax_Theory/Semantic_Domains.thy
+lemma semIntAll_termFSwSbImorph: "wlsSEM SEM \<Longrightarrow> termFSwSbImorph (semInt SEM) (semIntAbs SEM) (asIMOD SEM)"

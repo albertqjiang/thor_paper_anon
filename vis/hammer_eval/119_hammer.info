@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Prpu_Maxflow/Generic_Push_Relabel.thy
+theorem push_pres_Labeling: assumes "push_precond f l e" shows "Labeling c s t (push_effect f e) l"

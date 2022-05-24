@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Budan_Fourier/BF_Misc.thy
+lemma fcompose_nzero: fixes p::"'a::field poly" assumes "p\<noteq>0" and "q2\<noteq>0" and nconst:"\<forall>c. q1 \<noteq> smult c q2" and infi:"infinite (UNIV::'a set)" shows "fcompose p q1 q2 \<noteq> 0"

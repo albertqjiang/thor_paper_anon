@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Probabilistic_Prime_Tests/Jacobi_Symbol.thy
+lemma dvd_odd_square: "8 dvd a\<^sup>2 - 1" if "odd a" for a :: int

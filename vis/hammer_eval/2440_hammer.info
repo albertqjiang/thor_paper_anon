@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Coinductive/TLList.thy
+lemma ttl_unfold_tllist: "ttl (unfold_tllist IS_TNIL TNIL THD TTL a) = (if IS_TNIL a then TNil (TNIL a) else unfold_tllist IS_TNIL TNIL THD TTL (TTL a))"

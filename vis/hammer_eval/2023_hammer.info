@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Diophantine_Eqns_Lin_Hom/Linear_Diophantine_Equations.thy
+lemma sum_list_us_le: "sum_list (\<^bold>u y i) \<le> i + 1"

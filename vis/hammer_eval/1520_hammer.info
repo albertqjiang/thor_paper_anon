@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Gauss_Sums/Gauss_Sums.thy
+theorem one_induced_iff_principal: "induced_modulus 1 \<longleftrightarrow> \<chi> = principal_dchar n"

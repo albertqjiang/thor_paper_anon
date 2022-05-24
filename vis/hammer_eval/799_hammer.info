@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Psi_Calculi/Agent.thy
+lemma substCases[simp]: fixes Cs :: "('c \<times> ('a, 'b, 'c) psi) list" and xvec :: "name list" and Tvec :: "'a list" shows "subs (Cases Cs) xvec Tvec = Cases(caseListSubst Cs xvec Tvec)"

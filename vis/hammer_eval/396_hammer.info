@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/JiveDataStoreModel/Isabelle/Subtype.thy
+lemma widen_asm: "(a::Javatype) \<le> b \<Longrightarrow> a \<le> b"

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Buildings/Chamber.thy
+lemma adjacentset_chamber: "chamber C \<Longrightarrow> D\<in>adjacentset C \<Longrightarrow> chamber D"

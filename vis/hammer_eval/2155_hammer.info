@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/SIFPL/VDM.thy
+lemma MutrecAux[rule_format]: "\<forall> G . ((finite G \<and> card G = n \<and> verified G \<and> A : G) \<longrightarrow> {} \<rhd> Call:A)"

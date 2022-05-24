@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/PLM/TAO_9_PLM.thy
+lemma rule_sub_lem_1_d[PLM]: "(\<And>x.[\<^bold>\<box>(\<psi> x \<^bold>\<equiv> \<chi> x) in v]) \<Longrightarrow> [(\<^bold>\<forall>\<alpha>. \<psi> \<alpha>) \<^bold>\<equiv> (\<^bold>\<forall>\<alpha>. \<chi> \<alpha>) in v]"

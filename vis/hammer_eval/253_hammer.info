@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Buildings/Prelim.thy
+lemma fold_fixespointwise: "\<forall>x\<in>set xs. fixespointwise (f x) A \<Longrightarrow> fixespointwise (fold f xs) A"

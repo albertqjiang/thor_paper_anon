@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/MuchAdoAboutTwo/MuchAdoAboutTwo.thy
+lemma Figure_7_trans: assumes A1: "\<And>i xs ys. \<lbrakk> i < k ; js = xs @ ys ; xs \<noteq> [] ; i = last xs \<rbrakk> \<Longrightarrow> (i + 1) \<in> set ys" and A2: "(r::nat) > 0" and A3: "i + r \<le> k" and A4: "js = xs @ ys" and A5: "xs \<noteq> []" and A6: "i = last xs" shows "(i + r) \<in> set ys"

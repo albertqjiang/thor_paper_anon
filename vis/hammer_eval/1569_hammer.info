@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/JiveDataStoreModel/Isabelle_Store/Store.thy
+lemma alive_arr_len [simp]: "isArrV x \<Longrightarrow> alive (ref (arr_len x)) s = alive x s"

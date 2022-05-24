@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Polynomials/MPoly_Type_Class_Ordered.thy
+lemma tt_uminus [simp]: "tt (- p) = tt p"

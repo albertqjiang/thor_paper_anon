@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Poincare_Bendixson/Analysis_Misc.thy
+lemma infinite_countable_subsetE: fixes S::"'a set" assumes "infinite S" obtains g::"nat\<Rightarrow>'a" where "inj g" "range g \<subseteq> S"

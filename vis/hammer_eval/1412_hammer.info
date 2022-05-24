@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Jordan_Normal_Form/Determinant.thy
+lemma det_swapcols: assumes *: "k < n" "l < n" "k \<noteq> l" and A: "A \<in> carrier_mat n n" shows "det (swapcols k l A) = - det A"

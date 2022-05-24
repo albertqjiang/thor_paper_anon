@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Stable_Matching/Contracts.thy
+lemma CD_on_simps: shows "CD_on ds {} = {}"

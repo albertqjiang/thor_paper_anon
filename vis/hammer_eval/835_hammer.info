@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Modal_Logics_for_NTS/S_Transform.thy
+theorem S_transform_bisimilar_iff: "P \<sim>\<cdot>\<^sub>S Q \<longleftrightarrow> P \<sim>\<cdot> Q"

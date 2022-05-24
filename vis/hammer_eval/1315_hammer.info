@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Probabilistic_Prime_Tests/Legendre_Symbol.thy
+lemma two_cong_0_iff_int: "p > 0 \<Longrightarrow> [2 = 0] (mod p) \<longleftrightarrow> p = 1 \<or> p = 2" for p :: int

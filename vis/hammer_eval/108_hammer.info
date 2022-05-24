@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Word_Lib/Word_Lemmas.thy
+lemma unatSuc2: fixes n :: "'a :: len word" shows "n + 1 \<noteq> 0 \<Longrightarrow> unat (n + 1) = Suc (unat n)"

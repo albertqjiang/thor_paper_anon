@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Statecharts/HA.thy
+lemma InitState_CompFun_InitConf: "[| S \<in> HAStates A; SA \<in> the (CompFun A S); S \<in> InitConf A |] ==> (InitState SA) \<in> InitConf A"

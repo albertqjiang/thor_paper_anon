@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Error_Function/Error_Function.thy
+lemma has_integral_erf_aux: "((\<lambda>t::real. exp (-t\<^sup>2)) has_integral (sqrt pi / 2)) {0..}"

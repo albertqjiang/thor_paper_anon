@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/PAC_Checker/PAC_Checker_Init.thy
+lemma hn_invalid_recover: \<open>is_pure R \<Longrightarrow> hn_invalid R = (\<lambda>x y. R x y * true)\<close> \<open>is_pure R \<Longrightarrow> invalid_assn R = (\<lambda>x y. R x y * true)\<close>

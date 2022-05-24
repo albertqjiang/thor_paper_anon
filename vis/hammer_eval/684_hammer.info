@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/EdmondsKarp_Maxflow/EdmondsKarp_Algo.thy
+lemma edka_wf_rel_wf[simp, intro!]: "wf edka_wf_rel"

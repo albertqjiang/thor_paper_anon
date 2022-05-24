@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Formula_Derivatives/Presburger_Formula.thy
+lemma nvars_SNOC[Presb_simps]: "#\<^sub>V (SNOC x \<AA>) = #\<^sub>V \<AA>"

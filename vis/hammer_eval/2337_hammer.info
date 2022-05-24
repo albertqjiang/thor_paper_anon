@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Laplace_Transform/Existence.thy
+lemma nderiv_zero[simp]: "nderiv 0 f X = f"

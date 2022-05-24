@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Ordinal_Partitions/Omega_Omega.thy
+lemma nxt_subset_atLeast: "m \<le> n \<Longrightarrow> nxt N n \<subseteq> {m..}"

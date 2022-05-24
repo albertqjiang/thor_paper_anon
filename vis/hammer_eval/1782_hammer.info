@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Gabow_SCC/Gabow_Skeleton.thy
+theorem skeleton_spec: "skeleton \<le> SPEC (\<lambda>D. outer_invar {} D)"

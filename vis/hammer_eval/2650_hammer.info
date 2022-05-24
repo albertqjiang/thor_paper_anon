@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Polynomials/MPoly_PM.thy
+lemma subst_pp_restrict_indets_subst: "subst_pp (\<lambda>x. monomial 1 (restrict_indets_subst x)) t = monomial 1 (restrict_indets_pp t)"

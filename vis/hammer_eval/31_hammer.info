@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Nested_Multisets_Ordinals/Hereditary_Multiset.thy
+lemma type_definition_hmultiset: "type_definition Rep_hmultiset Abs_hmultiset {X. no_elem X}"

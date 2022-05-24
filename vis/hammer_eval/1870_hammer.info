@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/PropResPI/Propositional_Resolution.thy
+lemma resolvent_is_finite : shows "derived_clauses_are_finite resolvent"

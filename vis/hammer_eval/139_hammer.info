@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Rank_Nullity_Theorem/Mod_Type.thy
+lemma size0: "0 < int CARD ('a)"

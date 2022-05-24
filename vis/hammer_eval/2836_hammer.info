@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Simpl/ex/Compose.thy
+lemma rename_DynCom: "(rename h c = DynCom rc) = (\<exists>C. c=DynCom C \<and> rc = (\<lambda>s. rename h (C s)))"

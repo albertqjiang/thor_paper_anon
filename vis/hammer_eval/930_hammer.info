@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Sort_Encodings/G.thy
+lemma wt_Wit: assumes "GE.wt (Fn (Wit \<sigma>) Tl)" shows "Tl = []"

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Bernoulli/Bernoulli_FPS.thy
+lemma bernoulli'_odd_eq_0: "n \<noteq> 1 \<Longrightarrow> odd n \<Longrightarrow> bernoulli' n = 0"

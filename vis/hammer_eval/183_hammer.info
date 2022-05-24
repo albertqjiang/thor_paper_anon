@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Polynomials/MPoly_Type_Class_OAlist.thy
+lemma keys_MP_oalist [code]: "keys (MP_oalist xs) = set (map fst (fst (list_of_oalist_ntm xs)))"

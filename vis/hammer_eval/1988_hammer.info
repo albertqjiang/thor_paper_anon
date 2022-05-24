@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Ordinal/OrdinalInduct.thy
+lemma oSuc_le_eq_less: "(oSuc x \<le> y) = (x < y)"

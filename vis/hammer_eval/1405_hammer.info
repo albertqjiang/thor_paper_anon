@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/VerifyThis2019/lib/Exc_Nres_Monad.thy
+lemma CHECK_rule[refine_vcg]: assumes "c \<Longrightarrow> \<Psi> ()" assumes "\<not>c \<Longrightarrow> \<Phi> e" shows "CHECK c e \<le> ESPEC \<Phi> \<Psi>"

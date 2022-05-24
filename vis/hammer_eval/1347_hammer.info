@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Stone_Algebras/Stone_Construction.thy
+lemma stone_phi_embed_order_injective: assumes "stone_phi_embed x \<le> stone_phi_embed y" shows "x \<le> y"

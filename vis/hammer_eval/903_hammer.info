@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Modal_Logics_for_NTS/Nominal_Wellfounded.thy
+lemma hull_rel_relcomp_trivialI [simp]: assumes "(x, y) \<in> R" shows "(x, y) \<in> hull_rel O R"

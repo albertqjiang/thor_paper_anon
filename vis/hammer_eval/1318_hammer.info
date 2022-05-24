@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Myhill-Nerode/Non_Regular_Languages.thy
+lemma repeat_Cons_append_commute [simp]: "repeat n xs @ xs = xs @ repeat n xs"

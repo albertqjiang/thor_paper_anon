@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Projective_Geometry/Desargues_Property.thy
+lemma desargues_config_rot_CW: assumes "desargues_config A B C A' B' C' M N P R" shows "desargues_config C A B C' A' B' P M N R"

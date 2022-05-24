@@ -1,0 +1,1 @@
+{"proved": true, "proof_script": "lemma subset_self:\"A \\<subseteq> A\"\nby simp", "proof_length": 1, "agent_info": {"prediction_time": 1.8471364974975586, "isabelle_time": 0.046372175216674805, "problem_loading_time": 4.222613573074341, "proof_length": 1, "successful_proof": "lemma subset_self:\"A \\<subseteq> A\"\nby simp", "result": "proved"}}

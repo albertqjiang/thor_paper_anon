@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Launchbury/AList-Utils-Nominal.thy
+lemma fresh_distinct: assumes "atom ` S \<sharp>* \<Gamma>" shows "S \<inter> domA \<Gamma> = {}"

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Category3/SetCategory.thy
+lemma arr_mkIde [iff]: shows "arr (mkIde A) \<longleftrightarrow> A \<subseteq> Univ"

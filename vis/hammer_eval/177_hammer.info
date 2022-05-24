@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Key_Agreement_Strong_Adversaries/Secrecy.thy
+lemma s0_anyP_observable [iff]: "observable (obs s0) P"

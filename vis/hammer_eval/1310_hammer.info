@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Polynomials/MPoly_Type_Class_Ordered.thy
+lemma lt_plus_eqI_3: assumes "lt q = lt p" and "lc p + lc q \<noteq> 0" shows "lt (p + q) = lt (p::'t \<Rightarrow>\<^sub>0 'b::monoid_add)"

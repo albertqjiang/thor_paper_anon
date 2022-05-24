@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/MonoBoolTranAlgebra/Mono_Bool_Tran_Algebra.thy
+lemma omega_star: "x \<in> conjunctive \<Longrightarrow> x ^ \<omega> = wpt (x ^ \<omega>) * (x ^ *)"

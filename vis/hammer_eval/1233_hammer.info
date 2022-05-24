@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Euler_Partition/Euler_Partition.thy
+lemma distinct_distinct_of_odd: "distinct_of_odd p i \<le> 1"

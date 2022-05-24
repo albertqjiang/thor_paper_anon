@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Binding_Syntax_Theory/QuasiTerms_PickFresh_Alpha.thy
+lemma qFresh_imp_ex_qAFresh1: assumes "qGood X" and "qFresh zs z X" shows "\<exists> X'. qGood X' \<and> X #= X' \<and> qAFresh zs z X'"

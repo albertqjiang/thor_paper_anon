@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Functional-Automata/RegExp2NAe.thy
+lemma True_in_step_or[iff]: "\<And>L R. (True#p,q) : step (or L R) a = (\<exists>r. q = True#r \<and> (p,r) : step L a)"

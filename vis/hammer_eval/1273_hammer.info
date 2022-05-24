@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Topological_Semantics/topo_operators_derivative.thy
+lemma CD1b: "Der_1b \<D> \<Longrightarrow> Cl_1b (\<C>\<^sub>D \<D>)"

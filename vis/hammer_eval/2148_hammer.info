@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Aggregation_Algebras/Semigroups_Big.thy
+lemma reindex: assumes "inj_on h A" shows "F g (h ` A) = F (g \<circ> h) A"

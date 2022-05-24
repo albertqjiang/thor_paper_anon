@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Probabilistic_Noninterference/Language_Semantics.thy
+lemma theFT_Int_theNFT[simp]: "theFT cl Int theNFT cl = {}" and "theNFT cl Int theFT cl = {}"

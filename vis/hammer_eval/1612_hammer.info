@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Diophantine_Eqns_Lin_Hom/Simple_Algorithm.thy
+lemma rlex2_not_sym: "x <\<^sub>r\<^sub>l\<^sub>e\<^sub>x\<^sub>2 y \<Longrightarrow> \<not> y <\<^sub>r\<^sub>l\<^sub>e\<^sub>x\<^sub>2 x"

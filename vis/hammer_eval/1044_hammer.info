@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Complex_Geometry/More_Complex.thy
+lemma arg_ii [simp]: shows "arg \<i> = pi/2"

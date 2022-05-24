@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Linear_Inequalities/Integral_Bounded_Vectors.thy
+lemma add_indexed_Ints_vec: "x \<in> carrier_vec n \<Longrightarrow> y \<in> carrier_vec n \<Longrightarrow> x \<in> indexed_Ints_vec I \<Longrightarrow> y \<in> indexed_Ints_vec I \<Longrightarrow> x + y \<in> indexed_Ints_vec I"

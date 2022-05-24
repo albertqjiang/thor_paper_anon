@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/PCF/PCF.thy
+lemma plotkin_exists_tt [simp]: "appF\<cdot>f\<cdot>(ValN\<cdot>n) = ValTT \<Longrightarrow> plotkin_exists f = ValTT"

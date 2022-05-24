@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/LinearQuantifierElim/Thys/QEdlo_fr.thy
+lemma I_qe_interior: "DLO.I (qe_interior \<phi>) xs = DLO.I \<phi> xs"

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Syntax_Independent_Logic/Deduction_Q.thy
+lemma prv_tms_zer: assumes [simp]: "t \<in> atrm" shows "prv (eql (tms t zer) zer)"

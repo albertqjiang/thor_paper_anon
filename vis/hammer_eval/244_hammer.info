@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Resolution_FOL/TermsAndLiterals.thy
+theorem hlit_of_flit_flit_of_hlit [simp]: "hlit_of_flit (flit_of_hlit l) = l"

@@ -1,0 +1,1 @@
+{"proved": true, "proof_script": "lemma rev_rev_image: \"rev ` rev ` A = A\"\nby force", "proof_length": 1, "agent_info": {"prediction_time": 1.888920545578003, "isabelle_time": 0.07368350028991699, "problem_loading_time": 0.06327438354492188, "proof_length": 1, "successful_proof": "lemma rev_rev_image: \"rev ` rev ` A = A\"\nby force", "result": "proved"}}

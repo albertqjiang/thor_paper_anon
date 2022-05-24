@@ -1,0 +1,1 @@
+{"proved": true, "proof_script": "lemma n_in_Nsetn:\"(n::nat) \\<in> {i. i \\<le> n}\"\nby simp", "proof_length": 1, "agent_info": {"prediction_time": 1.9225857257843018, "isabelle_time": 0.0377047061920166, "problem_loading_time": 5.456220865249634, "proof_length": 1, "successful_proof": "lemma n_in_Nsetn:\"(n::nat) \\<in> {i. i \\<le> n}\"\nby simp", "result": "proved"}}

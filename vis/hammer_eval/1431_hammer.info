@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Probabilistic_Timed_Automata/library/Finiteness.thy
+lemma finite_set_of_finite_funs2: fixes A :: "'a set" and B :: "'b set" and C :: "'c set" and d :: "'c" assumes "finite A" and "finite B" and "finite C" shows "finite {f. \<forall>x. \<forall>y. (x \<in> A \<and> y \<in> B \<longrightarrow> f x y \<in> C) \<and> (x \<notin> A \<longrightarrow> f x y = d) \<and> (y \<notin> B \<longrightarrow> f x y = d)}" (is "finite ?S")

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Propositional_Proof_Systems/LSC.thy
+lemma LHCut: assumes "F,\<Gamma> \<Rightarrow>\<^sub>n" "\<^bold>\<not>F, \<Gamma> \<Rightarrow>\<^sub>n" shows "\<Gamma> \<Rightarrow>\<^sub>n"

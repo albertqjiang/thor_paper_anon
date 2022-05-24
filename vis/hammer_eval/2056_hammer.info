@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Complx/OG_Tactics.thy
+lemma pre_strengthen: "\<not>pre_par a \<Longrightarrow> pre (strengthen_pre a a') = pre a \<inter> a'"

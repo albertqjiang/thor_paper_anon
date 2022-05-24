@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/PLM/TAO_9_PLM.thy
+lemma oa_contingent_6[PLM]: "[(O!\<^sup>-) \<^bold>\<noteq> (A!\<^sup>-) in v]"

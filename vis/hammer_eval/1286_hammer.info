@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Stone_Kleene_Relation_Algebras/Kleene_Algebras.thy
+lemma star_below_circ: "x\<^sup>\<star> \<le> x\<^sup>\<circ>"

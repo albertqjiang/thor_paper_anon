@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/InfPathElimination/SymExec.thy
+theorem se_star_mono_for_sub : assumes "se_star c1 ls c1'" assumes "se_star c2 ls c2'" assumes "c2 \<sqsubseteq> c1" shows "c2' \<sqsubseteq> c1'"

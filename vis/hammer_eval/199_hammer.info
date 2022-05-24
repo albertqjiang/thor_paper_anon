@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Incredible_Proof_Machine/Predicate_Formulas.thy
+lemma subst1_Nil[simp]: "subst1 [] f = f"

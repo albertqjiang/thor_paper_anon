@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/HOL-CSP/Process.thy
+lemma less_tail: "s \<noteq> [] \<Longrightarrow> s < t \<Longrightarrow> tl s < tl t"

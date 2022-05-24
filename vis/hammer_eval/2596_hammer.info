@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/AutoFocus-Stream/IL_AF_Stream.thy
+lemma f_join_singleton_if: " xs \<Join>\<^sub>f {n} = (if n < length xs then [xs ! n] else [])"

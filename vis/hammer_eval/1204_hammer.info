@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Ergodic_Theory/Invariants.thy
+theorem (in fmpt) skew_product_conservative: fixes f::"'a \<Rightarrow> real" assumes [measurable]: "integrable M f" and "AE x in M. real_cond_exp M Invariants f x = 0" shows "conservative_mpt (M \<Otimes>\<^sub>M lborel) (\<lambda>(x,y). (T x, y + f x))"

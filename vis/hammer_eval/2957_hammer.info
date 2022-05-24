@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Pi_Calculus/Weak_Late_Cong_SC.thy
+lemma sumZero: fixes P :: pi shows "P \<oplus> \<zero> \<simeq> P"

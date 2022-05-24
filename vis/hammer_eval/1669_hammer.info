@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Safe_OCL/OCL_Typing.thy
+lemma numeric_binop_type_det: "numeric_binop_type op \<tau> \<sigma> \<rho>\<^sub>1 \<Longrightarrow> numeric_binop_type op \<tau> \<sigma> \<rho>\<^sub>2 \<Longrightarrow> \<rho>\<^sub>1 = \<rho>\<^sub>2"

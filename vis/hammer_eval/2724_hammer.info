@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Lam-ml-Normalization/Lam_ml.thy
+lemma r9'[intro!]: "s to x in [Var x] \<mapsto> s"

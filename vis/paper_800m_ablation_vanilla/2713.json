@@ -1,0 +1,1 @@
+{"proved": true, "proof_script": "lemma \"f 7 = f (3 :: 2 word)\"\nby simp", "proof_length": 1, "agent_info": {"prediction_time": 1.8734889030456543, "isabelle_time": 0.1089012622833252, "problem_loading_time": 0.09919166564941406, "proof_length": 1, "successful_proof": "lemma \"f 7 = f (3 :: 2 word)\"\nby simp", "result": "proved"}}

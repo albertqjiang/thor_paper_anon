@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Free-Groups/FreeGroups.thy
+lemma cancelling_inf[simp]: "canceling (inv1 a) (inv1 b) = canceling a b"

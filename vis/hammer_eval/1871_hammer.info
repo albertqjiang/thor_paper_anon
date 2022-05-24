@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/WebAssembly/Wasm_Properties.thy
+lemma types_preserved_if: assumes "\<lparr>[$C ConstInt32 n, $If tf e1s e2s]\<rparr> \<leadsto> \<lparr>[$Block tf es']\<rparr>" "\<S>\<bullet>\<C> \<turnstile> [$C ConstInt32 n, $If tf e1s e2s] : (ts _> ts')" shows "\<S>\<bullet>\<C> \<turnstile> [$Block tf es'] : (ts _> ts')"

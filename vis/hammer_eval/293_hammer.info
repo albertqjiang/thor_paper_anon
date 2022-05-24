@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Taylor_Models/Polynomial_Expression.thy
+lemma degree_npolyhCN[simp]: "isnpolyh (CN c n p) n0 \<Longrightarrow> degree c = 0"

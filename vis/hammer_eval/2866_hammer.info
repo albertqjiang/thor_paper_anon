@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Markov_Models/ex/Zeroconf_Analysis.thy
+lemma E_closed: "s \<in> states \<Longrightarrow> E s \<subseteq> states"

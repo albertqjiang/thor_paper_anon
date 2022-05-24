@@ -1,0 +1,23 @@
+neptune-client>=0.14.2
+git+https://gitlab.com/awarelab/mrunner.git@gcp_backend
+tqdm~=4.45.0
+
+dm-haiku
+tqdm~=4.45.0
+einops~=0.3.0
+optax==0.0.6
+ray[default]==1.5.1
+# jaxlib==0.1.67
+jax[tpu]==0.2.26
+Flask~=1.1.2
+tensorflow-cpu>=2.5.0
+google-cloud-storage~=1.36.2
+transformers[tf-cpu]
+smart_open[gcs]
+func_timeout
+ftfy
+fastapi
+uvicorn
+lm_dataformat
+
+tatsu==5.5.0

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Groebner_Macaulay/Cone_Decomposition.thy
+lemma monomial_decompI: "(\<And>h U. (h, U) \<in> set ps \<Longrightarrow> is_monomial h) \<Longrightarrow> (\<And>h U. (h, U) \<in> set ps \<Longrightarrow> punit.lc h = 1) \<Longrightarrow> monomial_decomp ps"

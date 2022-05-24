@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Extended_Finite_State_Machine_Inference/heuristics/Group_By.thy
+lemma group_by_drop_foldr: "drop x l = foldr (@) (group_by f (drop x l)) []"

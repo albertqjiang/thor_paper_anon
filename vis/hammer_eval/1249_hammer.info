@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/LTL_to_DRA/Semi_Mojmir.thy
+lemma older_seniors_card_le: "card (older_seniors x n) < card (older_seniors y n) \<longleftrightarrow> older_seniors x n \<subset> older_seniors y n"

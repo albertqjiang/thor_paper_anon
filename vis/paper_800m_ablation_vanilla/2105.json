@@ -1,0 +1,1 @@
+{"proved": true, "proof_script": "lemma rm_vars_singleton: \"rm_vars {v} s = rm_var v s\"\nby auto", "proof_length": 1, "agent_info": {"prediction_time": 1.8996131420135498, "isabelle_time": 0.04343771934509277, "problem_loading_time": 2.297396659851074, "proof_length": 1, "successful_proof": "lemma rm_vars_singleton: \"rm_vars {v} s = rm_var v s\"\nby auto", "result": "proved"}}

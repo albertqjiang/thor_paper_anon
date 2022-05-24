@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/BinarySearchTree/BinaryTree.thy
+lemma binsert_set: "sortedTree h t --> setOf (binsert h e t) = (setOf t) - (eqs h e) Un {e}" (is "?P t")

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/IMP2/lib/IMP2_Aux_Lemmas.thy
+lemma image_mset_subst_outside: "x\<notin>#s \<Longrightarrow> image_mset (f(x:=y)) s = image_mset f s"

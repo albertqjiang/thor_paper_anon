@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Groebner_Bases/Syzygy.thy
+lemma pm_of_idx_pm_of_pm: assumes "keys f \<subseteq> set xs" shows "pm_of_idx_pm xs (idx_pm_of_pm xs f) = f"

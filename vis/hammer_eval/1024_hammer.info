@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Launchbury/ValueSimilarity.thy
+lemma similar_bot[simp]: "\<bottom> \<triangleleft>\<triangleright> \<bottom>"

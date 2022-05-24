@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Fourier/Fourier.thy
+lemma sqrt_pi_ge1: "sqrt pi \<ge> 1"

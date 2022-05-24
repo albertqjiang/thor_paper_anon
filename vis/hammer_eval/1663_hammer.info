@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Chandy_Lamport/Util.thy
+lemma exists_one_iff_filter_one: shows "(\<exists>!j. j < length l \<and> l ! j = a) \<longleftrightarrow> length (filter ((=) a) l) = 1"

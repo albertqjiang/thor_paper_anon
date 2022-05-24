@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/LTL_Master_Theorem/Logical_Characterization/Extra_Equivalence_Relations.thy
+lemma Unf_lang_equiv: "\<phi> \<sim>\<^sub>L Unf \<phi>"

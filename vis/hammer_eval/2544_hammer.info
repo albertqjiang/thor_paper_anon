@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Formal_SSA/FormalSSA_Misc.thy
+lemma butlast_prefix: "prefix xs ys \<Longrightarrow> prefix (butlast xs) (butlast ys)"

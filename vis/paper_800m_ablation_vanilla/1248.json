@@ -1,0 +1,1 @@
+{"proved": true, "proof_script": "lemma \"(''TUM''--Leaf) \\<le> Leaf\"\nby eval", "proof_length": 1, "agent_info": {"prediction_time": 1.8618688583374023, "isabelle_time": 0.07686328887939453, "problem_loading_time": 2.8634955883026123, "proof_length": 1, "successful_proof": "lemma \"(''TUM''--Leaf) \\<le> Leaf\"\nby eval", "result": "proved"}}

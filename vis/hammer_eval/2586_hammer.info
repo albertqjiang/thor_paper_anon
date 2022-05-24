@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Poincare_Bendixson/ODE_Misc.thy
+lemma rev_existence_ivl_eq0: "rev.existence_ivl0 y = uminus ` existence_ivl0 y" for y

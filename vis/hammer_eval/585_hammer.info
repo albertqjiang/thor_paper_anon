@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Markov_Models/Markov_Decision_Process.thy
+lemma state_cont[simp]: "state (cont cfg s) = s"

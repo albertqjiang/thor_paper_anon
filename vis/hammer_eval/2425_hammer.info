@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Descartes_Sign_Rule/Descartes_Sign_Rule.thy
+lemma op_plus_0: "((+) (0 :: 'a :: monoid_add)) = id"

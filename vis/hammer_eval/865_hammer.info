@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Program-Conflict-Analysis/Semantics.thy
+lemma atU_add: "atU U c \<Longrightarrow> atU U (c+ce) \<and> atU U (ce+c)"

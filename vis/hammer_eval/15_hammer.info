@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/ZFC_in_HOL/ZFC_in_HOL.thy
+lemma smaller_than_small: assumes "small A" "B \<subseteq> A" shows "small B"

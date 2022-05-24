@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Probabilistic_Prime_Tests/Jacobi_Symbol.thy
+lemma Jacobi_eq_0_not_coprime: assumes "n \<noteq> 0" "\<not>coprime a n" shows "Jacobi a n = 0"

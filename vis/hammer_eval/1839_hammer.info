@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Jordan_Normal_Form/Matrix_Kernel.thy
+lemma mat_kernel_smult: assumes A: "A \<in> carrier_mat nr nc" and v: "v \<in> mat_kernel A" shows "a \<cdot>\<^sub>v v \<in> mat_kernel A"

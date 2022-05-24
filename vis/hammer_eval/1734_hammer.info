@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Physical_Quantities/Power_int.thy
+lemma one_intpow [simp]: "1 ^\<^sub>Z n = 1"

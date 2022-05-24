@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Polynomials/MPoly_PM.thy
+lemma Polys_closed_sum_list: "(\<And>x. x \<in> set xs \<Longrightarrow> x \<in> P[X]) \<Longrightarrow> sum_list xs \<in> P[X]"

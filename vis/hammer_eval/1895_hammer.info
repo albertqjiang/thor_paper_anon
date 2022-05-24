@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/SuperCalc/terms.thy
+lemma subterms_of_an_atomic_term: assumes "is_a_variable t \<or> is_a_constant t" shows "subterms_of t = { t }"

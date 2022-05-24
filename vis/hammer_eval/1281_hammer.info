@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/pGCL/Expectations.thy
+lemma embed_bool_bounded[simp,intro]: "bounded \<guillemotleft>P\<guillemotright>"

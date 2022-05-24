@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/WOOT_Strong_Eventual_Consistency/CreateConsistent.thy
+lemma nth_visible_inc': assumes "sorted_wrt (<) (map a (ext_ids s))" assumes "nth_visible s n = Inr i" assumes "nth_visible s (Suc n) = Inr j" shows "a i < a j"

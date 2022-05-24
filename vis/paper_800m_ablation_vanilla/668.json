@@ -1,0 +1,1 @@
+{"proved": true, "proof_script": "lemma dense_closed_top: \"dense top\"\nby simp", "proof_length": 1, "agent_info": {"prediction_time": 1.919691562652588, "isabelle_time": 0.044191837310791016, "problem_loading_time": 3.4390103816986084, "proof_length": 1, "successful_proof": "lemma dense_closed_top: \"dense top\"\nby simp", "result": "proved"}}

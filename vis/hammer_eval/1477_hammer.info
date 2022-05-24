@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Jordan_Normal_Form/Derivation_Bound.thy
+lemma deriv_bound_SN_on: assumes "deriv_bound r a n" shows "SN_on r {a}"

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Algebraic_Numbers/Algebraic_Numbers.thy
+lemma algebraic_of_rat: "algebraic (of_rat x)"

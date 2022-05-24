@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/SATSolverVerification/SatSolverVerification.thy
+lemma transBoolLess: shows "trans boolLess"

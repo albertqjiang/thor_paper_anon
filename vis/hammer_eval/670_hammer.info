@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Word_Lib/Aligned.thy
+lemma is_aligned_no_overflow: "is_aligned ptr sz \<Longrightarrow> ptr \<le> ptr + 2^sz - 1"

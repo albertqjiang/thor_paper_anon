@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/List_Update/Prob_Theory.thy
+lemma invSum_split: "p>0 \<Longrightarrow> p<1 \<Longrightarrow> invA Da x i \<Longrightarrow> invB Db x i \<Longrightarrow> invSum invA invB (Sum_pmf p Da Db) x i"

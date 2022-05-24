@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Polynomials/MPoly_Type_Class.thy
+lemma keys_plus_eqI: assumes "keys p \<inter> keys q = {}" shows "keys (p + q) = (keys p \<union> keys q)"

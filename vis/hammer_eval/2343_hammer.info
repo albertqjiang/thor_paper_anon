@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/LTL_to_DRA/Mojmir.thy
+lemma finite_monotonic_image: fixes A B :: "nat set" assumes "\<And>i. i \<in> A \<Longrightarrow> i \<le> f i" assumes "f ` A = B" shows "finite A \<longleftrightarrow> finite B"

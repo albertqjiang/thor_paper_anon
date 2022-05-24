@@ -1,0 +1,1 @@
+{"proved": true, "proof_script": "lemma Scan_empty: \"Scan {} k I = I\"\nby (simp add: Scan_def)", "proof_length": 1, "agent_info": {"prediction_time": 1.803849220275879, "isabelle_time": 0.06218838691711426, "problem_loading_time": 0.9713218212127686, "proof_length": 1, "successful_proof": "lemma Scan_empty: \"Scan {} k I = I\"\nby (simp add: Scan_def)", "result": "proved"}}

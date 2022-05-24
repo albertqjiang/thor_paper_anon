@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/List_Update/Move_to_Front.thy
+lemma mtf20[simp]: "mtf2 0 x xs = xs"

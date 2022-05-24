@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Menger/DisjointPaths.thy
+lemma P_hit: "hitting_paths new_last"

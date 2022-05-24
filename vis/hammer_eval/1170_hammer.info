@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Collections/Lib/Diff_Array.thy
+lemma array_length_array_set [simp]: "array_length (array_set a i e) = array_length a"

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Polynomials/MPoly_Type_Class.thy
+lemma map_scale_zero_left [simp]: "0 \<cdot> t = 0"

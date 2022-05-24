@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Hybrid_Multi_Lane_Spatial_Logic/Restriction.thy
+lemma restrict_clm : "restrict v (clm ts) c \<sqsubseteq> clm ts c"

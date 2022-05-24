@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Modal_Logics_for_NTS/FL_Formula.thy
+lemma Conj\<^sub>\<alpha>_def': "Conj\<^sub>\<alpha> tset\<^sub>\<alpha> = abs_Tree\<^sub>\<alpha> (tConj (map_bset rep_Tree\<^sub>\<alpha> tset\<^sub>\<alpha>))"

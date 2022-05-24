@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Berlekamp_Zassenhaus/Unique_Factorization.thy
+lemma coprime_hom[simp]: "coprime (hom x) y' \<longleftrightarrow> coprime x (Hilbert_Choice.inv hom y')"

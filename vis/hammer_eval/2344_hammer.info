@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/MFOTL_Monitor/Table.thy
+lemma join_restrict: fixes X Y :: "'a tuple set" assumes "\<And>v. v \<in> X \<Longrightarrow> wf_tuple n A v" "\<And>v. v \<in> Y \<Longrightarrow> wf_tuple n B v" "\<not> b \<Longrightarrow> B \<subseteq> A" shows "v \<in> join X b Y \<longleftrightarrow> wf_tuple n (A \<union> B) v \<and> restrict A v \<in> X \<and> (if b then restrict B v \<in> Y else restrict B v \<notin> Y)"

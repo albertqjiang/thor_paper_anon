@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Goedel_HFSet_Semanticless/Pseudo_Coding.thy
+lemma ssubst_quot_tm [simp]: fixes t::tm shows "finite V \<Longrightarrow> ssubst \<lceil>t\<rceil> V F = \<lceil>t\<rceil>"

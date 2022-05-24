@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Launchbury/HOLCF-Join.thy
+lemma join_self[simp]: "x \<squnion> x = x"

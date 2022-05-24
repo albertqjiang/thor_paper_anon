@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/AI_Planning_Languages_Semantics/PDDL_STRIPS_Semantics.thy
+lemma lookup_zip_idx_eq: assumes "length params = length args" assumes "i<length args" assumes "distinct params" assumes "k = params ! i" shows "map_of (zip params args) k = Some (args ! i)"

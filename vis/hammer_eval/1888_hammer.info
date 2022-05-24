@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/ConcurrentIMP/CIMP_vcg.thy
+lemma curry_forall_eq: "(\<forall>f. P f) = (\<forall>f. P (case_prod f))"

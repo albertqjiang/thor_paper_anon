@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Dirichlet_L/Dirichlet_Characters.thy
+lemma norm_le_1: "norm (\<chi> k) \<le> 1"

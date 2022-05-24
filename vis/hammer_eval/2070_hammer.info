@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/List_Update/Move_to_Front.thy
+lemma set_step2: "set(step s r (mf,sws)) = set s"

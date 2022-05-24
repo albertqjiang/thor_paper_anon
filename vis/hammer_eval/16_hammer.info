@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Tarskis_Geometry/Hyperbolic_Tarski.thy
+lemma M_perp_sym: assumes "M_perp l m" shows "M_perp m l"

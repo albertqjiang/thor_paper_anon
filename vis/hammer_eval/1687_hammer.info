@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Constructive_Cryptography/Converter.thy
+lemma WT_resource_attach [WT_intro]: "\<lbrakk> \<I>, \<I>' \<turnstile>\<^sub>C conv \<surd>; \<I>' \<turnstile>res res \<surd> \<rbrakk> \<Longrightarrow> \<I> \<turnstile>res attach conv res \<surd>"

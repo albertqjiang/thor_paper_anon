@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Polynomials/MPoly_Type_Class_Ordered.thy
+lemma dgrad_p_set_closed_uminus: assumes "p \<in> dgrad_p_set d m" shows "-p \<in> dgrad_p_set d m"

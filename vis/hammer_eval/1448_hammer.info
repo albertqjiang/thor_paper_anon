@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/BirdKMP/Theory_Of_Lists.thy
+lemma stails_all[simp]: "(xs \<in> sset (stails\<cdot>xs)) \<longleftrightarrow> (xs \<noteq> \<bottom>)"

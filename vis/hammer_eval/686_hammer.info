@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Stern_Brocot/Stern_Brocot_Tree.thy
+lemma stern_brocot_fractions_not_repeated: assumes "root (traverse_tree path stern_brocot_iterate) = root (traverse_tree path' stern_brocot_iterate)" shows "path = path'"

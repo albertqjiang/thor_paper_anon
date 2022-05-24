@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Ordered_Resolution_Prover/Abstract_Substitution.thy
+lemma subsumes_empty_left[simp]: "subsumes {#} C"

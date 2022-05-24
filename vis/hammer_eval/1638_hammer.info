@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Extended_Finite_State_Machines/FSet_Utils.thy
+lemma exists_fset_of_list: "\<exists>l. f = fset_of_list l"

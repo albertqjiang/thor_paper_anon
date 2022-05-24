@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Probabilistic_Noninterference/Trace_Based.thy
+lemma part_is_subset: "part S P \<Longrightarrow> p \<in> P \<Longrightarrow> p \<subseteq> S"

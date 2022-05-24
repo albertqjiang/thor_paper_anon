@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/JinjaThreads/Common/TypeRel.thy
+lemma widen_array_object_code: "C = Object \<Longrightarrow> P \<turnstile> Array A \<le> Class C"

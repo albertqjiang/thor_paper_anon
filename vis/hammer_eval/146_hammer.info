@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Dirichlet_Series/Dirichlet_Series_Analysis.thy
+lemma abs_conv_abscissa_sum_leI: assumes "\<And>x. x \<in> A \<Longrightarrow> abs_conv_abscissa (f x :: 'a :: dirichlet_series fds) \<le> d" shows "abs_conv_abscissa (sum f A) \<le> d"

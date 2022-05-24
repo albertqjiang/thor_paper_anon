@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Binomial-Heaps/SkewBinomialHeap.thy
+lemma meld_xlate: "bsmap (meld q q') = SkewBinomialHeapStruc.meld (bsmap q) (bsmap q')"

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Regex_Equivalence/Derivatives_Finite.thy
+theorem ACI_norm_nullable: "nullable \<guillemotleft>r\<guillemotright> = nullable r"

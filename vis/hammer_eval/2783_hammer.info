@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/CCS/Weak_Bisim.thy
+lemma weakBisimulationE: fixes P :: "ccs" and Q :: "ccs" assumes "P \<approx> Q" shows "P \<leadsto>\<^sup>^<weakBisimulation> Q" and "Q \<approx> P"

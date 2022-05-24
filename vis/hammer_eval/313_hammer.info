@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Timed_Automata/DBM_Basics.thy
+lemma dbm_entry_val_mono_2: "dbm_entry_val u None (Some c) b \<Longrightarrow> b \<preceq> b' \<Longrightarrow> dbm_entry_val u None (Some c) b'"

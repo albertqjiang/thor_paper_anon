@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Collections/ICF/ICF_Refine_Monadic.thy
+lemma (in poly_map_iteratei) dres_ne_bot_map_iterate[refine_transfer]: assumes A: "\<And>x s. f x s \<noteq> dSUCCEED" shows "iteratei r c (\<lambda>x s. dbind s (f x)) (dRETURN s) \<noteq> dSUCCEED"

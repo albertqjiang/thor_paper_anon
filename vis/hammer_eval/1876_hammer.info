@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/JinjaThreads/Compiler/Execs.thy
+lemma \<tau>Execr_refl: "\<tau>Exec_mover ci P t e h s s"

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Valuation/Valuation1.thy
+lemma (in Corps) n_val_surj:"valuation K v \<Longrightarrow> \<exists>x\<in> carrier K. n_val K v x = 1"

@@ -1,0 +1,1 @@
+{"proved": true, "proof_script": "theorem p11: \"p \\<longleftrightarrow> p\"\nby auto2", "proof_length": 1, "agent_info": {"prediction_time": 1.7298333644866943, "isabelle_time": 0.05101943016052246, "problem_loading_time": 0.16153240203857422, "proof_length": 1, "successful_proof": "theorem p11: \"p \\<longleftrightarrow> p\"\nby auto2", "result": "proved"}}

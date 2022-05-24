@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/PLM/TAO_5_MetaSolver.thy
+lemma ConjI[meta_intro]: "([\<phi> in v] \<and> [\<psi> in v]) \<Longrightarrow> [\<phi> \<^bold>& \<psi> in v]"

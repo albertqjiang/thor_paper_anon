@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Separata/Separata.thy
+lemma lspasl_c_der: "(h1,h2\<triangleright>h0) \<Longrightarrow> (h1,h3\<triangleright>h0) \<Longrightarrow> (h1,h2\<triangleright>h0) \<and> h2 = h3"

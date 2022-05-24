@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/SIFUM_Type_Systems/LocallySoundModeUse.thy
+lemma seq_doesnt_modify: "\<lbrakk> doesnt_modify c x \<rbrakk> \<Longrightarrow> doesnt_modify (c ;; c') x"

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Coinductive/Coinductive_Nat.thy
+lemma epred_enat_unfold [simp]: "epred (enat_unfold stop next a) = (if stop a then 0 else enat_unfold stop next (next a))"

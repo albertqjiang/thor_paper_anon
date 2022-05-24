@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/KAT_and_DRA/SingleSorted/Test_Dioid.thy
+lemma n_mult_glb: "n z \<sqsubseteq> n x \<and> n z \<sqsubseteq> n y \<longleftrightarrow> n z \<sqsubseteq> n x \<cdot> n y"

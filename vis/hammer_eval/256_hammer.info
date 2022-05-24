@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/AODV/variants/b_fwdrreps/B_Aodv_Data.thy
+lemma in_kD_case [simp]: fixes dip rt assumes "dip \<in> kD(rt)" shows "(case rt dip of None \<Rightarrow> en | Some r \<Rightarrow> es r) = es (the (rt dip))"

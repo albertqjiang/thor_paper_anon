@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/LLL_Basis_Reduction/LLL_Impl.thy
+lemma round_num_denom: "round_num_denom num denom = round (of_int num / rat_of_int denom)"

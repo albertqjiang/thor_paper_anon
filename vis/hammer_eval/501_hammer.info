@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Category3/Yoneda.thy
+lemma Cod_map: assumes "C.arr g" and "C.arr f" shows "S.Cod (map (g, f)) = set (C.dom g, C.cod f)"

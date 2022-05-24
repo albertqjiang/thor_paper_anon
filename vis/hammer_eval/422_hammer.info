@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/DiscretePricing/Fair_Price.thy
+lemma (in disc_filtr_prob_space) trading_strategy_adapted: assumes "trading_strategy p" and "support_adapt Mkt p" shows "borel_adapt_stoch_proc F (val_process Mkt p)"

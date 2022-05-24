@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Topological_Semantics/ex_LFIs.thy
+lemma "\<^bold>\<not>A \<^bold>\<approx> \<^bold>\<midarrow>A \<^bold>\<or> \<F>(\<^bold>\<midarrow>A)"

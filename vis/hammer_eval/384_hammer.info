@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/RSAPSS/Word.thy
+lemma bitand_cancel [simp]: "(b \<and>\<^sub>b b) = b"

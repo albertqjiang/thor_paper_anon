@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Planarity_Certificates/Planarity/Executable_Permutations.thy
+lemma permutationss_complete: assumes "distincts xss" "distincts yss" "xss \<noteq> []" and "set ` set xss = set ` set yss" shows "set yss \<in> set ` set (permutationss xss)"

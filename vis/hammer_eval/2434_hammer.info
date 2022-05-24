@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Group-Ring-Module/Algebra1.thy
+lemma less_diff_pos:"i < (n::nat) \<Longrightarrow> 0 < n - i"

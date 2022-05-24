@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Green/Paths.thy
+lemma chain_reparam_chain'_imp_finite_subdiv: assumes "finite one_chain1" "chain_reparam_chain' one_chain1 subdiv" shows "finite subdiv"

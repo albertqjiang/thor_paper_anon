@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Prime_Number_Theorem/Prime_Counting_Functions.thy
+lemma nth_prime_less_iff [simp]: "nth_prime m < nth_prime n \<longleftrightarrow> m < n"

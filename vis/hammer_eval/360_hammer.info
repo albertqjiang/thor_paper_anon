@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Timed_Automata/DBM_Operations.thy
+lemma canonical_cyc_free: "canonical M n \<Longrightarrow> \<forall>i \<le> n. M i i \<ge> \<one> \<Longrightarrow> cyc_free M n"

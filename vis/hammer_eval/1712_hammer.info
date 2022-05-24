@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Automatic_Refinement/Lib/Misc.thy
+lemma set_to_map_empty[simp]: "set_to_map {} = Map.empty"

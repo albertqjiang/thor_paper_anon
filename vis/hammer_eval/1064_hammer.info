@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Possibilistic_Noninterference/During_Execution.thy
+lemma siso_Sbis[simp]: assumes "siso c" shows "c \<approx>s c"

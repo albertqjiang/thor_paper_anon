@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Universal_Turing_Machine/Abacus_Hoare.thy
+lemma notfinal_Suc: "abc_notfinal (abc_steps_l (0, lm) A (Suc n)) A \<Longrightarrow> abc_notfinal (abc_steps_l (0, lm) A n) A"

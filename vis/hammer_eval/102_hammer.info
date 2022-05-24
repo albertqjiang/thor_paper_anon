@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Group-Ring-Module/Algebra4.thy
+lemma set_r_ar_cos_ker:"\<lbrakk>Ring A; Ring R; f \<in> rHom A R \<rbrakk> \<Longrightarrow> set_rcs (b_ag A) (ker\<^bsub>A,R\<^esub> f) = set_ar_cos A (ker\<^bsub>A,R\<^esub> f)"

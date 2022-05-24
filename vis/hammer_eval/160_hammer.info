@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/UPF_Firewall/FWNormalisation/NormalisationGenericProofs.thy
+lemma SCSubset[rule_format]: " singleCombinators b \<longrightarrow> set a \<subseteq> set b \<longrightarrow> singleCombinators a"

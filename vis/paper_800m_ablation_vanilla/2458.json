@@ -1,0 +1,1 @@
+{"proved": true, "proof_script": "lemma dense_bot_closed: \"dense_rel bot\"\nby simp", "proof_length": 1, "agent_info": {"prediction_time": 1.8882150650024414, "isabelle_time": 0.04131960868835449, "problem_loading_time": 1.6098670959472656, "proof_length": 1, "successful_proof": "lemma dense_bot_closed: \"dense_rel bot\"\nby simp", "result": "proved"}}

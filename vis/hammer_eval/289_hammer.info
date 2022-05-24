@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/LOFT/LinuxRouter_OpenFlow_Translation.thy
+lemma "annotate_rlen l = zip (rev [0..<length l]) l"

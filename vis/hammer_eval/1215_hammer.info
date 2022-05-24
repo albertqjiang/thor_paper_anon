@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/LTL_Master_Theorem/Logical_Characterization/Extra_Equivalence_Relations.thy
+lemma nested_prop_atoms_Unf: "nested_prop_atoms (Unf \<phi>) \<subseteq> nested_prop_atoms \<phi>"

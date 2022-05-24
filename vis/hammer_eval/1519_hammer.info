@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Robinson_Arithmetic/Robinson_Arithmetic.thy
+lemma neg_I0: assumes "(\<And>B. atom i \<sharp> B \<Longrightarrow> insert A H \<turnstile> B)" shows "H \<turnstile> neg A"

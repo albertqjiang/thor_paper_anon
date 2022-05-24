@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Stateful_Protocol_Composition_and_Typing/More_Unification.thy
+lemma rm_vars_singleton: "rm_vars {v} s = rm_var v s"

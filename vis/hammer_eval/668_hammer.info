@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Stone_Algebras/P_Algebras.thy
+lemma dense_closed_top: "dense top"

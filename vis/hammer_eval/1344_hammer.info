@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Routing/Routing_Table.thy
+lemma rpm_m_dup_simp: "rg \<inter> fst (ipset_prefix_match (routing_match r) rg) = fst (ipset_prefix_match (routing_match r) rg)"

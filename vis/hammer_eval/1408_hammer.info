@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Knuth_Morris_Pratt/KMP.thy
+lemma Nil_is_sublist: "sublist_at ([] :: 'x list) ys i \<longleftrightarrow> i \<le> length ys"

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Finger-Trees/FingerTree.thy
+lemma foldr_node_correct: "foldr_node f nd \<sigma> = List.foldr f (nodeToList nd) \<sigma>"

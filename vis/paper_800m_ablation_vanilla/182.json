@@ -1,0 +1,1 @@
+{"proved": true, "proof_script": "lemma \"\\<upsilon>(null::('\\<AA>)Void) = true\"\nby simp", "proof_length": 1, "agent_info": {"prediction_time": 1.7890682220458984, "isabelle_time": 0.04829978942871094, "problem_loading_time": 0.15624022483825684, "proof_length": 1, "successful_proof": "lemma \"\\<upsilon>(null::('\\<AA>)Void) = true\"\nby simp", "result": "proved"}}

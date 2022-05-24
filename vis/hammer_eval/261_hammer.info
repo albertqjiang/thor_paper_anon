@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Coinductive/Coinductive_Stream.thy
+lemma sconst_conv_of_seq: "sconst a = of_seq (\<lambda>_. a)"

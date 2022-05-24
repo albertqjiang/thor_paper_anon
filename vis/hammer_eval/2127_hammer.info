@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Formula_Derivatives/Presburger_Formula.thy
+lemma cut_bits_set_bit[Presb_simps]: "cut_bits n (set_bit m p) = (if n \<le> m then cut_bits n p else set_bit m (cut_bits n p))"

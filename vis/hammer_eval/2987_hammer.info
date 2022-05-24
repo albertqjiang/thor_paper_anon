@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Circus/Denotational_Semantics.thy
+lemma mono_state_update_before: "mono (state_update_before sc)"

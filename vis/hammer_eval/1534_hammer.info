@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Matrix/Utility.thy
+lemma max_list_set: "max_list xs = (if set xs = {} then 0 else (THE x. x \<in> set xs \<and> (\<forall> y \<in> set xs. y \<le> x)))"

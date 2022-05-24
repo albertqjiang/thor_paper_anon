@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Resolution_FOL/Resolution.thy
+lemma infinity: assumes inj: "\<forall>n :: nat. undiago (diago n) = n" assumes all_tree: "\<forall>n :: nat. (diago n) \<in> tree" shows "\<not>finite tree"

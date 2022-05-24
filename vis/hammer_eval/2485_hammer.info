@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Jordan_Normal_Form/Matrix.thy
+lemma uminus_mult_mat_vec[simp]: assumes v: "dim_vec v = dim_col (A :: 'a :: ring mat)" shows "- A *\<^sub>v v = - (A *\<^sub>v v)"

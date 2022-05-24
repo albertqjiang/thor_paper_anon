@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Tree_Decomposition/TreeDecomposition.thy
+lemma bag_cards_finite: "finite bag_cards"

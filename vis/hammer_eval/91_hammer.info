@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Consensus_Refined/Refinement.thy
+lemma PO_refines_implies_Range_init: "PO_refines R Ta Tc \<Longrightarrow> init Tc \<subseteq> Range R"

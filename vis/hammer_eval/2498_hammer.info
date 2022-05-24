@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Graph_Saturation/RulesAndChains.thy
+lemma agree_on_empty[intro,simp]: "agree_on (LG {} {}) f g"

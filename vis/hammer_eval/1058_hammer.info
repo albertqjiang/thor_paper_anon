@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Stateful_Protocol_Composition_and_Typing/More_Unification.thy
+lemma interpretation_subst_exists: "\<exists>\<I>::('f,'v) subst. interpretation\<^sub>s\<^sub>u\<^sub>b\<^sub>s\<^sub>t \<I>"

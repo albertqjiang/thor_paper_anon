@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Nested_Multisets_Ordinals/Syntactic_Ordinal_Bridge.thy
+lemma ordinal_of_hmset_\<omega>[simp]: "ordinal_of_hmset \<omega>\<^sub>h = \<omega>"

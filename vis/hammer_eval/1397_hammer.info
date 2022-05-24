@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Kruskal/UGraph.thy
+lemma uconnected_trans: "trans (uconnected E)"

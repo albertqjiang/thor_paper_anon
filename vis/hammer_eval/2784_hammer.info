@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/AODV/variants/b_fwdrreps/B_Aodv_Data.thy
+lemma proj6_pair_snd [simp]: fixes dsn' r shows "\<pi>\<^sub>6 (dsn', snd (r)) = \<pi>\<^sub>6(r)"

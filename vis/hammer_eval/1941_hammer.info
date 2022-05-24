@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Kuratowski_Closure_Complement/KuratowskiClosureComplementTheorem.thy
+lemma evens_closure: shows "closure evens = UNIV"

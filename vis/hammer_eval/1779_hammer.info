@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/PSemigroupsConvolution/Unary_Modalities.thy
+lemma bdia_fbox_galois: "(\<forall>x. (\<langle>R| f x) \<le> g x) \<longleftrightarrow> (\<forall>x. f x \<le> |R] g x)"

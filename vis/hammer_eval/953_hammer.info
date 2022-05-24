@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/HereditarilyFinite/OrdArith.thy
+lemma hdomain_shift_disjoint: "delta \<sqinter> hdomain (shift f delta) = 0"

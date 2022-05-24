@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Universal_Turing_Machine/UTM.thy
+lemma tape_of_nl_cons_app2: "(<c # xs @ [b]>) = (<c # xs> @ Bk # Oc\<up>(Suc b))"

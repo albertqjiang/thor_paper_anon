@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Tree-Automata/AbsAlgo.thy
+lemma br_termrel_wf[simp, intro!]: "finite \<delta> \<Longrightarrow> wf (br_termrel \<delta>)"

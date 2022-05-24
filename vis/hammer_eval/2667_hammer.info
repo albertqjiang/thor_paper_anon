@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Simpl/Hoare.thy
+lemma all_imp_eq_triv: "(\<forall>x. x = k \<longrightarrow> Q) = Q" "(\<forall>x. k = x \<longrightarrow> Q) = Q"

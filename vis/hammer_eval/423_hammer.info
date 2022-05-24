@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Jordan_Normal_Form/Matrix.thy
+lemma scalar_prod_smult_left[simp]: "dim_vec w = dim_vec v \<Longrightarrow> (k \<cdot>\<^sub>v w) \<bullet> v = (k :: 'a :: comm_semiring_0) * (w \<bullet> v)"

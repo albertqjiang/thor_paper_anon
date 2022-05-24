@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Median_Of_Medians_Selection/Median_Of_Medians_Selection.thy
+lemma chop_eq_Nil_iff [simp]: "chop n xs = [] \<longleftrightarrow> n = 0 \<or> xs = []"

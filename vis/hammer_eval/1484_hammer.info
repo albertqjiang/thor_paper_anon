@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Attack_Trees/AT.thy
+lemma att_or_empty2: "\<turnstile>([] \<oplus>\<^sub>\<or>\<^bsup>(s, s)\<^esup>)"

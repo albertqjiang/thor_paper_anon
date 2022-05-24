@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/PLM/TAO_9_PLM.thy
+lemma id_nec2_2[PLM]: "[((\<alpha>::'a::id_eq) \<^bold>\<noteq> \<beta>) \<^bold>\<equiv> \<^bold>\<box>(\<alpha> \<^bold>\<noteq> \<beta>) in v]"

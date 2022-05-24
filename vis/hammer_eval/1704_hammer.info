@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Fishburn_Impossibility/Social_Choice_Functions.thy
+lemma pareto_efficient': assumes "is_pref_profile R" "y \<succ>[Pareto(R)] x" shows "x \<notin> scf R"

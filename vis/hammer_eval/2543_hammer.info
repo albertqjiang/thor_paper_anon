@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Ordinary_Differential_Equations/ODE_Auxiliarities.thy
+lemma those_eq_None_set_iff: "those xs = None \<longleftrightarrow> None \<in> set xs"

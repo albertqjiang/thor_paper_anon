@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Linear_Inequalities/Missing_Matrix.thy
+lemma mat_col_last_carrier[simp]: "mat_col_last A n \<in> carrier_mat (dim_row A) n"

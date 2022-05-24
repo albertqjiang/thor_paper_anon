@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Circus/CSP_Processes.thy
+lemma CSP1_R_commute: "CSP1 (R P) = R (CSP1 P)"

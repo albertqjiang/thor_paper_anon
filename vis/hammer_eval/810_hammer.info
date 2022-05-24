@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Gromov_Hyperbolicity/Gromov_Boundary.thy
+lemma lim_imp_Gromov_converging_at_boundary: fixes u::"nat \<Rightarrow> 'a::Gromov_hyperbolic_space" assumes "(\<lambda>n. to_Gromov_completion (u n)) \<longlonglongrightarrow> x" "x \<in> Gromov_boundary" shows "Gromov_converging_at_boundary u"

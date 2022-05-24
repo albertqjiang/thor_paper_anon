@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/MFODL_Monitor_Optimized/Code_Double.thy
+lemma is_nan_copysign[simp]: "is_nan (copysign x y) \<longleftrightarrow> is_nan x"

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Incredible_Proof_Machine/Rose_Tree.thy
+lemma it_paths_RNode_Nil[simp]: "it_paths (RNode r []) = {[]}"

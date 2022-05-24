@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Allen_Calculus/allen.thy
+lemma cfif:"f^-1 O f \<subseteq> e \<union> f^-1 \<union> f"

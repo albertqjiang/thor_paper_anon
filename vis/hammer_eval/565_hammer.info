@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/TLA/Sequence.thy
+lemma seq_app_tail: "tail (x ## s) = s"

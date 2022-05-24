@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Simplex/Simplex_Incremental.thy
+lemma init_simplex: "checked_simplex cs {} (init_simplex cs)"

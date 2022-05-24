@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Tree_Decomposition/TreeDecomposition.thy
+lemma vertex_in_separator: assumes st: "s \<rightarrow>\<^bsub>T\<^esub> t" and v: "v \<in> left_part s t" "v \<in> left_part t s" shows "v \<in> bag s" "v \<in> bag t"

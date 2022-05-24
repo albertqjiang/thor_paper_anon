@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Collections/ICF/gen_algo/MapGA.thy
+lemma g_sng_impl: "map_sng \<alpha> invar g_sng"

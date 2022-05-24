@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Buildings/Chamber.thy
+lemma fundfoldpairs_induced_autormorph_order2: "(f,g) \<in> fundfoldpairs \<Longrightarrow> induced_automorph f g \<circ> induced_automorph f g = id"

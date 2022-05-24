@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Aggregation_Algebras/Aggregation_Algebras.thy
+lemma minarc_meet_bot_minarc_iff: "minarc x \<sqinter> x = bot \<longleftrightarrow> minarc x = bot"

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Probabilistic_Timed_Automata/library/Finiteness.thy
+lemma finite_imageI': assumes "finite {(x, y). P x y}" shows "finite {f x y | x y. P x y}"

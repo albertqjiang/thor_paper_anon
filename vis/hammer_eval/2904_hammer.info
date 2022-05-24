@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/KBPs/ODList.thy
+lemma odlist_all_iff: "odlist_all P xs \<longleftrightarrow> (\<forall>x \<in> toSet xs. P x)"

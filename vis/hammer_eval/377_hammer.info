@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Higher_Order_Terms/Term.thy
+lemma match_list_comb_list_comb_none_name[simp]: assumes "name \<noteq> name'" shows "match (name $$ ps) (name' $$ vs) = None"

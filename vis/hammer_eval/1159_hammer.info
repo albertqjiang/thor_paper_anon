@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/KBPs/ODList.thy
+lemma toSet_intersect[simp]: "toSet (intersect xs ys) = toSet xs \<inter> toSet ys"

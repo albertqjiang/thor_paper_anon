@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/BNF_Operations/Compose.thy
+theorem Hmap_comp: "Hmap (f1 o g1) (f2 o g2) = Hmap f1 f2 o Hmap g1 g2"

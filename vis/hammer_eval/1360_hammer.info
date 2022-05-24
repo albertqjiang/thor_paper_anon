@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Perron_Frobenius/Perron_Frobenius_Aux.thy
+lemma norm1_cont[simp]: "isCont norm1 v"

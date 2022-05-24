@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Smooth_Manifolds/Projective_Space.thy
+lemma saturate_eq: "Proj -` Proj ` X = (\<Union>c\<in>UNIV-{0}. (*\<^sub>R) c ` X)"

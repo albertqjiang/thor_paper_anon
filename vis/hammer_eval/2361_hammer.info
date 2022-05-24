@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Prpu_Maxflow/Generic_Push_Relabel.thy
+lemma uv_nodes[simp, intro!]: "u\<in>V" "v\<in>V"

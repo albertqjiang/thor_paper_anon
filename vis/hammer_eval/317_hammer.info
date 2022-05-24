@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Topological_Semantics/sse_boolean_algebra.thy
+lemma fp_d: "(fp \<phi>\<^sup>d) X = (fp \<phi>)(\<^bold>\<midarrow>X)"

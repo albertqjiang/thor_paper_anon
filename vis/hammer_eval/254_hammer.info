@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Program-Conflict-Analysis/ConsInterleave.thy
+lemma cil_subset_il: "w\<otimes>\<^bsub>\<alpha>\<^esub>w' \<subseteq> w\<otimes>w'"

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Groebner_Bases/Reduction.thy
+lemma red_ord: assumes "red F p q" shows "q \<prec>\<^sub>p p"

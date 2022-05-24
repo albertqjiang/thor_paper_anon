@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Buildings/Algebra.thy
+lemma reduced_word_for_length: "reduced_word_for A a as \<Longrightarrow> length as = word_length A a"

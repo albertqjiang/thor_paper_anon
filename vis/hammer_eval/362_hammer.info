@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Universal_Turing_Machine/Abacus.thy
+lemma repeat_Bk[simp]: "(\<exists>rna. Bk \<up> rn = Bk # Bk \<up> rna) \<or> rn = 0"

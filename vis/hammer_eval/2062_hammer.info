@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/QR_Decomposition/Projections.thy
+lemma norm_normalize: assumes "x \<noteq> 0" shows "norm (normalize x) = 1"

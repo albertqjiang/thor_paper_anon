@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/PLM/TAO_9_PLM.thy
+lemma cqt_further_13[PLM]: "[((\<^bold>\<exists>\<alpha>. \<phi> \<alpha>) \<^bold>& (\<^bold>\<not>(\<^bold>\<exists>\<alpha>. \<psi> \<alpha>))) \<^bold>\<rightarrow> (\<^bold>\<not>(\<^bold>\<forall>\<alpha>. \<phi> \<alpha> \<^bold>\<equiv> \<psi> \<alpha>)) in v]"

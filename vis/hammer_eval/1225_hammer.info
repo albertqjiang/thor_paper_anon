@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Jordan_Normal_Form/Matrix.thy
+lemma similar_mat_wit_sym: assumes sim: "similar_mat_wit A B P Q" shows "similar_mat_wit B A Q P"

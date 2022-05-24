@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Sort_Encodings/T.thy
+lemma wtPB_tPB[simp]: "TE.wtPB tPB"

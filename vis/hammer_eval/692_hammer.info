@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Knuth_Morris_Pratt/KMP.thy
+lemma kmp3_correct': "(uncurry kmp3, uncurry kmp_SPEC) \<in> Id \<times>\<^sub>r Id \<rightarrow>\<^sub>f \<langle>Id\<rangle>nres_rel"

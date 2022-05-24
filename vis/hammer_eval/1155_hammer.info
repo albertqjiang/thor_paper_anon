@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/JinjaThreads/Compiler/Execs.thy
+lemma exec_move_FAssI1: "exec_move ci P t e h s ta h' s' \<Longrightarrow> exec_move ci P t (e\<bullet>F{D} := e') h s ta h' s'"

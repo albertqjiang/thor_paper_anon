@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Simple_Firewall/Primitives/Primitives_toString.thy
+lemma "ports_toString ''spt: '' (1024,2048) = ''spt: 1024:2048''"

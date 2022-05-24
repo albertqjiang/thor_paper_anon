@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/SenSocialChoice/FSext.thy
+lemma has_suc_notempty: "has (Suc n) S \<Longrightarrow> {} \<noteq> S"

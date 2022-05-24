@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Propositional_Proof_Systems/Sema.thy
+lemma entail_sat: "\<Gamma> \<TTurnstile> \<bottom> \<longleftrightarrow> \<not> sat \<Gamma>"

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Stable_Matching/Contracts.thy
+lemma stable: shows "StableNoDecomp.stable X \<longleftrightarrow> X = {Xd1, Xd2} \<or> X = {Xd1', Xd2'}" (*<*) (is "?lhs = ?rhs")

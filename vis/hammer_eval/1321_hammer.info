@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Separation_Logic_Imperative_HOL/Hoare_Triple.thy
+lemma post_exI_rule: "<P> c <\<lambda>r. Q r x> \<Longrightarrow> <P> c <\<lambda>r. \<exists>\<^sub>Ax. Q r x>"

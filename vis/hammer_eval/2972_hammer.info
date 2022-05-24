@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Extended_Finite_State_Machine_Inference/code-targets/Code_Target_Set.thy
+lemma [code]: "insert x (set s) = (if x \<in> set s then set s else set (x#s))"

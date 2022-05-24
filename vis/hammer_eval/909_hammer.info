@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/IP_Addresses/WordInterval.thy
+lemma wordinterval_union_set_eq[simp]: "wordinterval_to_set (wordinterval_union r1 r2) = wordinterval_to_set r1 \<union> wordinterval_to_set r2"

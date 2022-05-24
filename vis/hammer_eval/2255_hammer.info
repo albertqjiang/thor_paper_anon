@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Probabilistic_Prime_Tests/Algebraic_Auxiliaries.thy
+lemma totient_less_not_prime: assumes "\<not> prime n" "1 < n" shows "totient n < n - 1"

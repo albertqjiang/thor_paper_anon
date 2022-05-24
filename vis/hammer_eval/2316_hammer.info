@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Key_Agreement_Strong_Adversaries/pfslvl2.thy
+lemma l2_inv7_init [iff]: "init l2 \<subseteq> l2_inv7"

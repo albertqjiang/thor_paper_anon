@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Auto2_HOL/HOL/Pelletier.thy
+theorem p11: "p \<longleftrightarrow> p"

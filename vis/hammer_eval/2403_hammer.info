@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Slicing/Dynamic/DynPDG.thy
+lemma DynPDG_wcd: "DynPDG sourcenode targetnode kind valid_edge (_Entry_) Def Use state_val (_Exit_) dyn_weak_control_dependence"

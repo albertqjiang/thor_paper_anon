@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/MiniML/Type.thy
+lemma free_tv_nth_nat_A [rule_format]: "\<forall>nat. nat < length A \<longrightarrow> x : free_tv (A!nat) \<longrightarrow> x : free_tv A"

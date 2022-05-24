@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Inductive_Inference/Partial_Recursive.thy
+lemma r_rev_prim [simp]: "prim_recfn 1 r_rev"

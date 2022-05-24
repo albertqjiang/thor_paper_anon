@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Stable_Matching/COP.thy
+lemma fp_cop_F_theorem_5_inv: shows "theorem_5_inv ds (fp_cop_F ds)"

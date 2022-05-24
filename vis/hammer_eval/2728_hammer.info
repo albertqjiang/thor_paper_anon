@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Graph_Theory/Bidirected_Digraph.thy
+lemma arev_permutes_arcs: "arev permutes arcs G"

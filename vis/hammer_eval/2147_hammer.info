@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Separata/Separata.thy
+lemma fm_partial: "(((not (sep_true \<longrightarrow>* (not sep_empty))) ** (not (sep_true \<longrightarrow>* (not sep_empty)))) imp (not (sep_true \<longrightarrow>* (not sep_empty)))) (h::'a::heap_sep_algebra)"

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/UPF_Firewall/FWNormalisation/NormalisationGenericProofs.thy
+lemma sortedConcStart[rule_format]: "sorted (a # aa # p) l \<longrightarrow> in_list a l \<longrightarrow> in_list aa l \<longrightarrow> all_in_list p l\<longrightarrow> singleCombinators [a] \<longrightarrow> singleCombinators [aa] \<longrightarrow> singleCombinators p \<longrightarrow> sorted (a#p) l"

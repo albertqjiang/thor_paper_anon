@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/SequentInvertibility/ModalSequents.thy
+lemma g3up_upRules: shows "g3up \<subseteq> upRules"

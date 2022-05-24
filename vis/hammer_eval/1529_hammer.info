@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/List_Interleaving/ListInterleaving.thy
+lemma Interleaves_length: "xs \<cong> {ys, zs, P} \<Longrightarrow> length xs = length ys + length zs"

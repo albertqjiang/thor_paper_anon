@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Order_Lattice_Props/Order_Lattice_Props_Wenzel.thy
+lemma dual_inv_inj: "inj \<partial>\<^sup>-"

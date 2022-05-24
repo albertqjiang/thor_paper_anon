@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Ordinary_Differential_Equations/IVP/Reachability_Analysis.thy
+lemma flowsto_to_empty_iff[simp]: "flowsto a t b {} \<longleftrightarrow> a = {}"

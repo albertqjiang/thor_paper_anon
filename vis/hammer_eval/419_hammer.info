@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Network_Security_Policy_Verification/Lib/FiniteListGraph.thy
+lemma delete_edge_length: "length (edgesL (delete_edge v v' G)) \<le> length (edgesL G)"

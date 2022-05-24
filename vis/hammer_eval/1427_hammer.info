@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/CoreC++/Auxiliary.thy
+lemma only_one_append:"\<lbrakk>C' \<notin> set Cs; C' \<notin> set Cs'; Ds@ C'#Ds' = Cs@ C'#Cs'\<rbrakk> \<Longrightarrow> Cs = Ds \<and> Cs' = Ds'"

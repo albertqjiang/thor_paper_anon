@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Architectural_Design_Patterns/RF_LTL.thy
+theorem ccard_diff_lgth: "n'\<ge>n \<Longrightarrow> ccard n n' (\<lambda>n. mining n) \<ge> (bc n' - bc n)"

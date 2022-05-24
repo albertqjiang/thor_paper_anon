@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Transformer_Semantics/Kleisli_Transformers.thy
+lemma iffb_id_pres: "fb\<^sup>-\<^sub>\<F> id = \<eta>"

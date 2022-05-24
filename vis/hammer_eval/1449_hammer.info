@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/JinjaThreads/MM/Orders.thy
+lemma restrictP_subsume1: fixes r :: "'a \<Rightarrow> 'a \<Rightarrow> bool" assumes "A \<subseteq> B" shows "r |` A |` B = r |` A"

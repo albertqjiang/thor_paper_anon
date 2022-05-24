@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/No_FTL_observers/SpaceTime.thy
+lemma lemTime2Sym: shows "time2 x y = time2 y x"

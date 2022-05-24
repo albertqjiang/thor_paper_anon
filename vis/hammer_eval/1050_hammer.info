@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Coinductive/Examples/LList_CCPO_Topology.thy
+lemma assumes fin: "\<forall>xs\<in>lset xss. lfinite xs" shows "lset (lconcat' xss) = (\<Union>xs\<in>lset xss. lset xs)" (is "?lhs = ?rhs")

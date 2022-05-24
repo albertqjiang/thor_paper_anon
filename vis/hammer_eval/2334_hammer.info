@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/AODV/variants/a_norreqid/A_Aodv.thy
+lemma aodv_init_kD_empty [simp]: "(\<xi>, p) \<in> \<sigma>\<^sub>A\<^sub>O\<^sub>D\<^sub>V i \<Longrightarrow> kD (rt \<xi>) = {}"

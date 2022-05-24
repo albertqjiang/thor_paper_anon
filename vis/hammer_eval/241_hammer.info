@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/DataRefinementIBP/Diagram.thy
+lemma grd_dgr_set: "((grd (step D) i)::('a set)) = Union {P . \<exists> j . P = grd (D(i,j))}"

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/RSAPSS/Word.thy
+lemma bv_uminus_returntype [simp]: "norm_signed (bv_uminus w) = bv_uminus w"

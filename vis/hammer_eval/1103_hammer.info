@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Simpl/HoarePartial.thy
+lemma WhileAnnoFix: assumes consequence: "P \<subseteq> {s. (\<exists> Z. s\<in>I Z \<and> (I Z \<inter> -b \<subseteq> Q)) }" assumes bdy: "\<forall>Z. \<Gamma>,\<Theta>\<turnstile>\<^bsub>/F\<^esub> (I Z \<inter> b) (c Z) (I Z),A" assumes bdy_constant: "\<forall>Z. c Z = c undefined" shows "\<Gamma>,\<Theta>\<turnstile>\<^bsub>/F\<^esub> P (whileAnnoFix b I V c) Q,A"

@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Lambert_W/Lambert_W.thy
+lemma tendsto_Lambert_W_2: assumes "(f \<longlongrightarrow> L) F" "L > -exp (-1)" shows "((\<lambda>x. Lambert_W (f x)) \<longlongrightarrow> Lambert_W L) F"

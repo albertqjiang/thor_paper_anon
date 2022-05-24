@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Program-Conflict-Analysis/Normalization.thy
+lemma mon_env_ileq: "w\<preceq>w' \<Longrightarrow> mon_env fg w \<subseteq> mon_env fg w'"

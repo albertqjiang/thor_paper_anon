@@ -1,0 +1,2 @@
+/home/qj213/afp-2021-10-22/thys/Knuth_Bendix_Order/KBO.thy
+lemma scf_list_map [simp]: "scf_list scf (map f xs) = map f (scf_list scf xs)"
